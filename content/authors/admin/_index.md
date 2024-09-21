@@ -43,6 +43,7 @@ interests:
   - Web Service Design
   - Hip-Hop Music
 
+#교육 내용 수정 예정
 education:
   - area: Computer engineering undergraduate
     institution: JBNU
@@ -50,9 +51,7 @@ education:
     date_end: 2025-03-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -64,6 +63,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -104,7 +104,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: JavaScript
         description: ''
         percent: 80
         icon: code-bracket
@@ -120,26 +120,25 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Singing and Rapping
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: microphone
+      - name: Game
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: gamepad-solid
+      - name: Fashion
         description: ''
         percent: 80
-        icon: camera
+        icon: shirt-solid
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
+  - name: KR
     percent: 75
-  - name: Portuguese
+  - name: EN
     percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
