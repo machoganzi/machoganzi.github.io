@@ -3,11 +3,11 @@
 title: 김선강
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kim Sun Gang
 
 # Full name (for SEO)
 first_name: Kim
-last_name: sun gang
+last_name: Sun Gang
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: College student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Computer Engineering Department
+    url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
