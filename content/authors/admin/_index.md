@@ -11,7 +11,7 @@ last_name: Sun Gang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😎
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,7 +50,7 @@ education:
     date_start: 2020-03-01
     date_end: 2025-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Entered 2020-03-01 and am majoring in computer engineering.
 
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -174,4 +174,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kim Sun-kang is an undergraduate student in the Department of Computer Engineering at Chonbuk National University. His interests are in databases, and mobile programming.
