@@ -593,7 +593,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-284359761&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-632895147&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -611,7 +611,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-284359761&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-632895147&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -805,7 +805,7 @@ Crash --&gt; [*]
 
 
 
-&lt;div id=&#34;chart-267843195&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-192785346&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -823,7 +823,7 @@ Crash --&gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-267843195&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-192785346&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -2032,6 +2032,28 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me&lt;/h1&gt;
+&lt;p&gt;Feel free to reach out to me through the contact details below, or you can visit my location on the map.&lt;/p&gt;
+&lt;h3 id=&#34;email&#34;&gt;Email:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;phone&#34;&gt;Phone:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;+82 10-4211-0034&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;location&#34;&gt;Location:&lt;/h3&gt;
+&lt;p&gt;You can find me at Chonbuk National University:&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.121321274898!2d127.13188817640166!3d35.84602857253448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35702330dc920b9d%3A0x1d0d425396006646!2z7KCE67aB64yA7ZWZ6rWQIOqzteqzvOuMgO2VmSA37Zi46rSA!5e0!3m2!1sko!2skr!4v1727352748409!5m2!1sko!2skr&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     

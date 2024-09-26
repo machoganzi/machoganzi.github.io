@@ -649,5 +649,8 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/publication_types/paper-conference/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
