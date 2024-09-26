@@ -5,7 +5,7 @@
     <link>http://localhost:1313/en/tags/firebase/</link>
       <atom:link href="http://localhost:1313/en/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <description>Firebase</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Firebase</title>
@@ -15,9 +15,9 @@
     <item>
       <title>InSquare - Business card application</title>
       <link>http://localhost:1313/en/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;</description>
     </item>
     
   </channel>
