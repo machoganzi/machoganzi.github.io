@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: InSquare - Business card application
+date: 2023-12-01
+external_link: https://github.com/thduss/android_2023
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Android Studio
+  - Java
+  - Firebase
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Mobile business card book with convenience and a variety of features
 
 <!--more-->

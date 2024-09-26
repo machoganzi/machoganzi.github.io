@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>InSquare - Business card application</title>
+      <link>http://localhost:1313/en/project/pandas/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/pandas/</guid>
+      <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/en/ko/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -301,14 +309,6 @@
       <link>http://localhost:1313/en/ko/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/ko/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/en/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
@@ -586,7 +586,7 @@
 
 
 
-&lt;div id=&#34;chart-397214658&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-265948317&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -604,7 +604,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-397214658&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-265948317&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -798,7 +798,7 @@ Crash --&gt; [*]
 
 
 
-&lt;div id=&#34;chart-526938174&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-549381276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -816,7 +816,7 @@ Crash --&gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-526938174&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-549381276&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

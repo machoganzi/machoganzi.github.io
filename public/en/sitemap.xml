@@ -162,10 +162,6 @@
                 href="http://localhost:1313/en/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/ko/project/pandas/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/en/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -179,6 +175,10 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/project/pandas/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/ko/project/pandas/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/en/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
