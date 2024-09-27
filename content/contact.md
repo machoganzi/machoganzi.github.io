@@ -1,6 +1,20 @@
+---
+title: "Contact Me"
+summary: "Feel free to reach out to me through the contact details below."
+date: 2023-09-27
 
+# 대표 이미지 설정 (Unsplash 이미지 URL 직접 삽입)
+image:
+  caption: 'Image credit: [**Unsplash**](https://plus.unsplash.com/premium_vector-1724337938223-43ee3daa958b?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)' # 이미지 출처를 명시하세요
+  alt: "Chonbuk National University" # 대체 텍스트
 
-# Contact Me
+authors:
+  - admin
+
+---
+
+![Unsplash Image](https://plus.unsplash.com/premium_vector-1724337938223-43ee3daa958b?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+*Image Credit: [Unsplash](https://plus.unsplash.com/premium_vector-1724337938223-43ee3daa958b?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)*
 
 Feel free to reach out to me through the contact details below, or you can visit my location on the map.
 
