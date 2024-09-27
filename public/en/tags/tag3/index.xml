@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag3 | 202011630 Kim Sun Gang</title>
+    <link>http://localhost:1313/en/tags/tag3/</link>
+      <atom:link href="http://localhost:1313/en/tags/tag3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tag3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Tag3</title>
+      <link>http://localhost:1313/en/tags/tag3/</link>
+    </image>
+    
+    <item>
+      <title>블로그 제목</title>
+      <link>http://localhost:1313/en/post/get-started/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/get-started/</guid>
+      <description>&lt;p&gt;환영합니다 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#개요&#34;&gt;개요&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#시작하기&#34;&gt;시작하기&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#주요-기능&#34;&gt;주요 기능&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#커스터마이징&#34;&gt;커스터마이징&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#마무리&#34;&gt;마무리&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;개요&#34;&gt;개요&lt;/h2&gt;
+&lt;p&gt;여기에서 간단한 개요를 작성하세요. 이 블로그는 
+와 
+를 사용하여 생성되었습니다.&lt;/p&gt;
+&lt;h3 id=&#34;시작하기&#34;&gt;시작하기&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 
+&lt;/li&gt;
+&lt;li&gt;📚 
+&lt;/li&gt;
+&lt;li&gt;💬 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;주요-기능&#34;&gt;주요 기능&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown으로 콘텐츠 작성&lt;/strong&gt;: 간단하고 직관적으로 블로그 글을 작성할 수 있습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;다국어 지원&lt;/strong&gt;: 다양한 언어를 지원하며, 다국어 웹사이트를 쉽게 만들 수 있습니다.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;모바일 친화적 디자인&lt;/strong&gt;: 모든 기기에서 잘 보이는 반응형 디자인을 제공합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&amp;amp;w=2670&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;ixlib=rb-4.0.3&amp;amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&#34; alt=&#34;Unsplash Image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;br&gt;
+&lt;em&gt;Image Credit: 
+&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;커스터마이징&#34;&gt;커스터마이징&lt;/h2&gt;
+&lt;p&gt;테마와 글꼴을 선택하고, 사이트를 개인화하는 다양한 방법을 소개할 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;마무리&#34;&gt;마무리&lt;/h2&gt;
+&lt;p&gt;이 섹션에 원하는 대로 마무리 내용을 추가하세요.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;[추가적인 링크나 참고 자료를 여기에 추가하세요.]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

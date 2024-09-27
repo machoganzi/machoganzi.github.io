@@ -47,16 +47,6 @@
     <loc>http://localhost:1313/ko/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/get-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/post/get-started/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
@@ -229,44 +219,14 @@
     <loc>http://localhost:1313/ko/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/second-brain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/post/second-brain/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/data-visualization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/post/data-visualization/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/teach-courses/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/post/teach-courses/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
@@ -369,16 +329,6 @@
     <loc>http://localhost:1313/ko/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/project-management/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/post/project-management/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
