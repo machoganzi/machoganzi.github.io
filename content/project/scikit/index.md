@@ -1,7 +1,7 @@
 ---
 title: Nyamjjupnyamjjup-Restaurant service web page
 date: 2024-09-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://github.com/machoganzi/-Project-nyamjjupnyamjjub
 tags:
   - HTML
   - CSS
