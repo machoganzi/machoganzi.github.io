@@ -46,10 +46,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 📅 Planned Move 📅
       filters:
         folders:
-          - publication
+          - planned
         featured_only: true
     design:
       view: article-grid
