@@ -273,30 +273,10 @@
     <loc>http://localhost:1313/ko/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teaching/js/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/teaching/js/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teaching/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/teaching/python/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
@@ -315,16 +295,6 @@
     <loc>http://localhost:1313/ko/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/teaching/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
