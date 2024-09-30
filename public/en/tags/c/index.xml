@@ -14,9 +14,9 @@
     
     <item>
       <title>Linux-Locker server</title>
-      <link>http://localhost:1313/en/project/pytorch/</link>
+      <link>http://localhost:1313/en/project/locker_server/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/pytorch/</guid>
+      <guid>http://localhost:1313/en/project/locker_server/</guid>
       <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
     </item>
     

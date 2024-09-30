@@ -69,9 +69,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>Nyamjjupnyamjjup-Restaurant service web page</title>
-      <link>http://localhost:1313/en/project/scikit/</link>
+      <link>http://localhost:1313/en/project/restaurant_service/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/scikit/</guid>
+      <guid>http://localhost:1313/en/project/restaurant_service/</guid>
       <description>&lt;p&gt;Creating web pages for providing restaurant services&lt;/p&gt;</description>
     </item>
     
@@ -144,9 +144,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>InSquare - Business card application</title>
-      <link>http://localhost:1313/en/project/pandas/</link>
+      <link>http://localhost:1313/en/project/insquare/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/pandas/</guid>
+      <guid>http://localhost:1313/en/project/insquare/</guid>
       <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;</description>
     </item>
     
@@ -262,9 +262,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title>Linux-Locker server</title>
-      <link>http://localhost:1313/en/project/pytorch/</link>
+      <link>http://localhost:1313/en/project/locker_server/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/pytorch/</guid>
+      <guid>http://localhost:1313/en/project/locker_server/</guid>
       <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
     </item>
     
@@ -421,7 +421,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-159486372&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-413698725&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -439,7 +439,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-159486372&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-413698725&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

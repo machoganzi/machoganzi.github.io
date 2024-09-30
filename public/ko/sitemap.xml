@@ -135,16 +135,6 @@
     <loc>http://localhost:1313/ko/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/project/pandas/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
@@ -163,30 +153,10 @@
     <loc>http://localhost:1313/ko/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/project/pytorch/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/project/scikit/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>

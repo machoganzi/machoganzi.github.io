@@ -46,19 +46,9 @@
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/project/scikit/</loc>
+    <loc>http://localhost:1313/en/project/restaurant_service/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/scikit/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/project/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
@@ -136,19 +126,9 @@
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/project/pandas/</loc>
+    <loc>http://localhost:1313/en/project/insquare/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/pandas/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/java/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
@@ -226,19 +206,9 @@
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/en/project/pytorch/</loc>
+    <loc>http://localhost:1313/en/project/locker_server/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/pytorch/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/ko/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
