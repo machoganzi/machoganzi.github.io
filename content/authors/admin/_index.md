@@ -53,28 +53,27 @@ education:
       Entered 2020-03-01 and am majoring in computer engineering.
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Mobile Programming TA
+    company_name: JBNU SW Business Group
+    company_url: 'https://swuniv.jbnu.ac.kr/main/#:~:text=%EB%B0%A9%EB%AC%B8%20%EC%A4%91%EC%9D%B8%20%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-09
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Research and Organize Class Materials
+      - Create a hands-on environment
+      - Supervision and weighting of assignments and tests.
+  - position: Work in the department's office
+    company_name: JBNU CSAI
+    company_url: 'https://csai.jbnu.ac.kr/csai/index.do'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-03-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Computer room management
+      - Creating a Classroom Environment
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
