@@ -421,7 +421,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
 
 
-&lt;div id=&#34;chart-569387142&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-159486372&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -439,7 +439,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-569387142&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-159486372&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1085,43 +1085,7 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/en/contact/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/contact/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://plus.unsplash.com/premium_vector-1724337938223-43ee3daa958b?q=80&amp;amp;w=2360&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;ixlib=rb-4.0.3&amp;amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&#34; alt=&#34;Unsplash Image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-&lt;em&gt;Image Credit: 
-&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Feel free to reach out to me through the contact details below, or you can visit my location on the map.&lt;/p&gt;
-&lt;h3 id=&#34;email&#34;&gt;Email:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;phone&#34;&gt;Phone:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;+82 10-4211-0034&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;location&#34;&gt;Location:&lt;/h3&gt;
-&lt;p&gt;You can find me at Chonbuk National University:&lt;/p&gt;
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3234.121321274898!2d127.13188817640166!3d35.84602857253448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35702330dc920b9d%3A0x1d0d425396006646!2z7KCE67aB64yA7ZWZ6rWQIOqzteqzvOuMgO2VmSA37Zi46rSA!5e0!3m2!1sko!2skr!4v1727352748409!5m2!1sko!2skr&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
