@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: "#00001a"  # 배경색을 어두운 네이비색으로 변경
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -30,12 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
-
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
+        
         I am researching and studying web service design and database.
 
         We are planning various projects using this
@@ -43,9 +43,6 @@ sections:
         Please contact me for a collaboration 😃
     design:
       columns: '1'
-      background:
-        color: "#00001a"  # 이 섹션의 배경색도 어두운 네이비로 변경
-
   - block: collection
     id: papers
     content:
@@ -57,9 +54,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-      background:
-        color: "#00001a"  # papers 섹션의 배경도 어두운 네이비로 변경
-
   - block: collection
     id: talks
     content:
@@ -70,9 +64,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-      background:
-        color: "#00001a"  # talks 섹션도 어두운 네이비로 변경
-
   - block: collection
     id: blog
     content:
@@ -102,9 +93,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-      background:
-        color: "#00001a"  # 블로그 섹션도 어두운 네이비로 변경
-
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
@@ -124,6 +112,5 @@ sections:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        background:
-          color: "#00001a"  # CTA 카드 섹션도 어두운 네이비로 변경
+        css_style: ""
 ---
