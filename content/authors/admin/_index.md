@@ -37,6 +37,13 @@ profiles:
     url: https://www.instagram.com/ssun_gang/
   - icon: brands/github
     url: https://github.com/machoganzi
+  - icon: brands/youtube
+    url: https://www.youtube.com/@%EC%8B%A0%EB%8F%8C%EC%84%9D-x6p
+  - icon: brands/facebook
+    url: https://www.facebook.com/profile.php?id=100008799076131
+  - icon: brands/discord
+    url: https://discord.gg/69qUb9RVnz
+
 
 interests:
   - Database

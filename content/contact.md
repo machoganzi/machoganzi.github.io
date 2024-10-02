@@ -7,6 +7,7 @@ type: landing
 design:
   spacing: '5rem'
 
+
 # Page sections
 sections:
   - block: markdown
