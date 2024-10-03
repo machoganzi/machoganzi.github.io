@@ -58,7 +58,7 @@ sections:
           position: center
           color: '#333'
       - title: WebSite Design
-        content: 
+        content: ''
         align: center
         background:
           image:
@@ -81,7 +81,7 @@ sections:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
       slide_width: '50%'
-      is_fullscreen: true
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
