@@ -2,6 +2,15 @@
 # Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+params:
+  plugins:
+    css:
+      - link: "plugins/glightbox/glightbox.css"
+      - link: "plugins/swiper/swiper-bundle.css"
+    js:
+      - link: "plugins/glightbox/glightbox.js"
+      - link: "js/gallery-slider.js"
+      - link: "plugins/swiper/swiper-bundle.js"
 
 # Website name
 title: 202011630 Kim Sun Gang
@@ -60,3 +69,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+

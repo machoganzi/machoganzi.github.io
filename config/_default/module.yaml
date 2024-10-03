@@ -12,6 +12,7 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+  - path: github.com/gethugothemes/hugo-modules/gallery-slider
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
   - source: hugo-blox/blox/community
