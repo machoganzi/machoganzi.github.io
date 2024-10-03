@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '📚 My Research'
@@ -43,6 +44,49 @@ sections:
         Please contact me for a collaboration 😃
     design:
       columns: '1'
+  - block: slider
+    content:
+      slides:
+      - title: DataBase
+        content: ''
+        align: center
+        background:
+          image:
+            filename: DB.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: WebSite Design
+        content: 
+        align: center
+        background:
+          image:
+            filename: website.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Hiphop
+        content: 'I love Hiphop'
+        align: center
+        background:
+          image:
+            filename: hiphop.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '400px'
+      slide_width: '50%'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
+
   - block: collection
     id: papers
     content:
@@ -54,6 +98,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     id: talks
     content:
@@ -64,6 +109,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     id: blog
     content:
@@ -93,6 +139,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
