@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts | 202011630 Kim Sun Gang</title>
+    <link>http://localhost:2159/en/contact/</link>
+      <atom:link href="http://localhost:2159/en/contact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contacts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:2159/media/icon_hu11734318148517933569.png</url>
+      <title>Contacts</title>
+      <link>http://localhost:2159/en/contact/</link>
+    </image>
+    
+    <item>
+      <title>Meet in Person</title>
+      <link>http://localhost:2159/en/contact/contact_person/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2159/en/contact/contact_person/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact Me In Online</title>
+      <link>http://localhost:2159/en/contact/contact_online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:2159/en/contact/contact_online/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
