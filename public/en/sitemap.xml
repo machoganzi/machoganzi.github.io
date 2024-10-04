@@ -38,26 +38,6 @@
                 href="http://localhost:1313/en/event/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/contact/discord/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/contact/email/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/contact/instagram/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/contact/soundcloud/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/en/tags/css/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -137,6 +117,18 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/post/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/contact/discord/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/contact/soundcloud/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/en/tags/android-studio/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>

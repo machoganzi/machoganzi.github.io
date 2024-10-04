@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>디스코드 | 202011630 Kim Sun Gang</title>
+    <link>http://localhost:1313/en/contact/discord-copy/discord/</link>
+      <atom:link href="http://localhost:1313/en/contact/discord-copy/discord/index.xml" rel="self" type="application/rss+xml" />
+    <description>디스코드</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/en/contact/discord-copy/discord/featured.jpg</url>
+      <title>디스코드</title>
+      <link>http://localhost:1313/en/contact/discord-copy/discord/</link>
+    </image>
+    
+  </channel>
+</rss>

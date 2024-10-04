@@ -28,5 +28,5 @@ main:
     weight: 10
   - name: Meeting in Online
     parent: Contact
-    url: contact/contact_online/
+    url: contact/
     weight: 20

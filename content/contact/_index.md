@@ -1,19 +1,11 @@
 ---
-title: Connect Me in Online
-type: contact
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ''
-  image: ''
+title: Notifications
 
 # Listing view
-view: compact
+view: card
 
-# Optional banner image (relative to `assets/media/` folder).
+# Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'website.jpg'
+  image: 'DB.jpg'
 ---
-
-여기에 소개 텍스트를 추가할 수 있습니다.
