@@ -39,53 +39,40 @@ sections:
         
         I am researching and studying web service design and database.
 
-        We are planning various projects using this
+        We are planning various projects using this.
 
         Please contact me for a collaboration 😃
+        
     design:
       columns: '1'
-  - block: slider
+
+  # 슬라이더 블록 (shortcode 사용)
+  - block: custom_slider
     content:
+      dir: "" 
+      height: "" 
+      width: "" 
+      webp: 
+      resize:  
+      command: "" 
+      option: "" 
+      zoomable: 
       slides:
-      - title: DataBase
-        content: ''
-        align: center
-        background:
-          image:
-            filename: DB.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-      - title: WebSite Design
-        content: ''
-        align: center
-        background:
-          image:
-            filename: website.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Hiphop
-        content: 'I love Hiphop'
-        align: center
-        background:
-          image:
-            filename: hiphop.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
+        - title: ""
+          content: ""
+          align: ""
+          background:
+            image:
+              filename: ""
+              filters:
+                brightness: 
+            position: ""
+            color: ""
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400px'
-      slide_width: '50%'
-      is_fullscreen: false
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
+      slide_height: ""
+      slide_width: ""
+      loop: 
+      interval: 
 
   - block: collection
     id: papers

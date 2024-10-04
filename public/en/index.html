@@ -162,8 +162,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu3247630877640252165.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4166356570829923896.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu5359680692872695440.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu14245135121990515913.png" />
 
   <link rel="canonical" href="http://localhost:1313/en/" />
 
@@ -193,8 +193,8 @@
   <meta property="og:site_name" content="202011630 Kim Sun Gang" />
   <meta property="og:url" content="http://localhost:1313/en/" />
   <meta property="og:title" content="202011630 Kim Sun Gang" />
-  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:1313/media/icon_hu11734318148517933569.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu11734318148517933569.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2022-10-24T00:00:00&#43;00:00" />
@@ -1844,7 +1844,7 @@
 
   
   <div class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose"><p>I am researching and studying web service design and database.</p>
-<p>We are planning various projects using this</p>
+<p>We are planning various projects using this.</p>
 <p>Please contact me for a collaboration 😃</p>
 </div>
 </div>
@@ -1934,9 +1934,6 @@
 
 
 
-  
-  
-  
 
 
 
@@ -1944,8 +1941,7 @@
 
 
 
-
-<section id="section-slider" class="relative hbb-section blox-slider   carousel slide" style="padding: 6rem 0 6rem 0;" data-ride="carousel" data-interval="3000">
+<section id="section-custom_slider" class="relative hbb-section blox-custom-slider  " style="padding: 6rem 0 6rem 0;" >
  <div class="home-section-bg " >
    
  </div>
@@ -1954,6 +1950,109 @@
   
 
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="swiper gallery-slider ">
+  <div class="swiper-wrapper">
+    
+    <div class="swiper-slide">
+      <img src="/images/DB.jpg" alt="Image 1" style="width: 100%; height: 350px;" />
+      <div class="slide-caption">
+        <h3>DB</h3>
+        <p>Study and learn databases.</p>
+      </div>
+    </div>
+
+    
+    <div class="swiper-slide">
+      <img src="/images/website.jpg" alt="Image 2" style="width: 100%; height: 350px;" />
+      <div class="slide-caption">
+        <h3>Website Design</h3>
+        <p>I'm thinking about how to make the website beautiful.</p>
+      </div>
+    </div>
+
+    
+    <div class="swiper-slide">
+      <img src="/images/Hiphop.jpg" alt="Image 3" style="width: 100%; height: 350px;" />
+      <div class="slide-caption">
+        <h3>Hiphop Music</h3>
+        <p>Sometimes they boldly express their thoughts on society through music!</p>
+      </div>
+    </div>
+  </div>
+
+  
+  <span class="swiper-button-prev"></span>
+  <span class="swiper-button-next"></span>
+</div>
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+
+<script>
+  const swiper = new Swiper('.gallery-slider', {
+    loop: true,
+    autoplay: {
+      delay: 5000, 
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  });
+</script>
+
+
+<style>
+  .slide-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.637);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .slide-caption h3 {
+    font-size: 2.5rem;   
+    margin: 0;
+    padding: 0;
+  }
+
+  .slide-caption p {
+    font-size: 1.5rem;   
+    margin: 10px 0 0;
+  }
+
+  .swiper-slide {
+    position: relative;
+  }
+</style>
+
 
   
 
