@@ -15,4 +15,5 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2 // indirect
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2 // indirect
 	github.com/gethugothemes/hugo-modules/gallery-slider v0.0.0-20240925042433-d2b5d05977e8 // indirect
+	github.com/gethugothemes/hugo-modules/modal v0.0.0-20240925042433-d2b5d05977e8 // indirect
 )

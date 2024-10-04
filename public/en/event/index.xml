@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | 202011630 Kim Sun Gang</title>
-    <link>http://localhost:2159/en/event/</link>
-      <atom:link href="http://localhost:2159/en/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/event/</link>
+      <atom:link href="http://localhost:1313/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:2159/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:2159/en/event/</link>
+      <link>http://localhost:1313/en/event/</link>
     </image>
     
     <item>
       <title>Chonbuk National University Academic Culture and Sports Festival</title>
-      <link>http://localhost:2159/en/event/example/</link>
+      <link>http://localhost:1313/en/event/example/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:2159/en/event/example/</guid>
+      <guid>http://localhost:1313/en/event/example/</guid>
       <description>&lt;!-- 
 
 

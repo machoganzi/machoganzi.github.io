@@ -16,3 +16,5 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240908170
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240908170534-4f621dfa3a5a/go.mod h1:+qBbqXbKT7M2nOeHQa5OrRXwQKpEx1RXpMGirHbT7HU=
 github.com/gethugothemes/hugo-modules/gallery-slider v0.0.0-20240925042433-d2b5d05977e8 h1:/2gTKMuTvHO+PoZ7H6SGBHB8vtCaFi6lttfBtY74i3E=
 github.com/gethugothemes/hugo-modules/gallery-slider v0.0.0-20240925042433-d2b5d05977e8/go.mod h1:MvQ2js/ofZ22CTX5wuvE+dC0rMe6C5HAWL2fEOu/yzE=
+github.com/gethugothemes/hugo-modules/modal v0.0.0-20240925042433-d2b5d05977e8 h1:kpPvQdUPgvi4UJcROg4rF5fSqNu//ZlIG+XxXr942tI=
+github.com/gethugothemes/hugo-modules/modal v0.0.0-20240925042433-d2b5d05977e8/go.mod h1:Eb9v7oV6biymfvjcBhQdvgn0gUGYhUtfCMeOBLFpFsk=

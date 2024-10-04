@@ -2,30 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts | 202011630 Kim Sun Gang</title>
-    <link>http://localhost:2159/en/contact/</link>
-      <atom:link href="http://localhost:2159/en/contact/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/contact/</link>
+      <atom:link href="http://localhost:1313/en/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>Contacts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:2159/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
       <title>Contacts</title>
-      <link>http://localhost:2159/en/contact/</link>
+      <link>http://localhost:1313/en/contact/</link>
     </image>
     
     <item>
-      <title>Meet in Person</title>
-      <link>http://localhost:2159/en/contact/contact_person/</link>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:2159/en/contact/contact_person/</guid>
+      <title>Discord</title>
+      <link>http://localhost:1313/en/contact/discord/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/discord/</guid>
+      <description>&lt;p&gt;Discord에서 우리 커뮤니티에 참여하세요!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>email</title>
+      <link>http://localhost:1313/en/contact/email/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/email/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contact Me In Online</title>
-      <link>http://localhost:2159/en/contact/contact_online/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:2159/en/contact/contact_online/</guid>
+      <title>instagram</title>
+      <link>http://localhost:1313/en/contact/instagram/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/instagram/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>soundcloud</title>
+      <link>http://localhost:1313/en/contact/soundcloud/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/soundcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connect Me in Online</title>
+      <link>http://localhost:1313/en/contact/contact_online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/contact_online/</guid>
+      <description>&lt;p&gt;여기에 소개 텍스트를 추가할 수 있습니다.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

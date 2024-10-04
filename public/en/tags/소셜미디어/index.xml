@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>소셜미디어 | 202011630 Kim Sun Gang</title>
+    <link>http://localhost:1313/en/tags/%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4/</link>
+      <atom:link href="http://localhost:1313/en/tags/%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4/index.xml" rel="self" type="application/rss+xml" />
+    <description>소셜미디어</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>소셜미디어</title>
+      <link>http://localhost:1313/en/tags/%EC%86%8C%EC%85%9C%EB%AF%B8%EB%94%94%EC%96%B4/</link>
+    </image>
+    
+    <item>
+      <title>온라인에서 만나요</title>
+      <link>http://localhost:1313/en/contact/contact_online/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/contact_online/</guid>
+      <description>&lt;p&gt;온라인에서 저희와 소통해보세요! 다양한 소셜 미디어 플랫폼에서 최신 소식과 업데이트를 확인할 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Facebook&lt;/strong&gt;: 일상적인 업데이트와 커뮤니티 소식을 확인하세요.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Instagram&lt;/strong&gt;: 비하인드 장면과 시각적 콘텐츠를 즐겨보세요.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discord&lt;/strong&gt;: 실시간 대화와 이벤트에 참여하세요.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SoundCloud&lt;/strong&gt;: 우리의 오디오 콘텐츠를 들어보세요.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;각 플랫폼에서 우리를 팔로우하고 소통에 참여해주세요. 여러분의 의견과 피드백은 언제나 환영입니다!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

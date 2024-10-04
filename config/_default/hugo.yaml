@@ -11,6 +11,7 @@ params:
       - link: "plugins/glightbox/glightbox.js"
       - link: "js/gallery-slider.js"
       - link: "plugins/swiper/swiper-bundle.js"
+      - link: "js/modal.js"
 
 # Website name
 title: 202011630 Kim Sun Gang
