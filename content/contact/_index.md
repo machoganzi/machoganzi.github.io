@@ -1,5 +1,5 @@
 ---
-title: Notifications
+title: Meet me online!
 
 # Listing view
 view: card
@@ -7,5 +7,5 @@ view: card
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'DB.jpg'
+  image: ''
 ---

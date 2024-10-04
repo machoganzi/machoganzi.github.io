@@ -13,8 +13,8 @@ sections:
     content:
       title: Meet in Person
       text: |
-        ![Meet in Person Image](https://source.unsplash.com/600x400/?office,meeting)
-        *Image Credit: [Unsplash](https://unsplash.com)*
+        ![Unsplash Image](https://plus.unsplash.com/premium_vector-1724337938223-43ee3daa958b?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+        
 
         I am always open to meeting people in person. Feel free to schedule a meeting and visit me at my office:
 
