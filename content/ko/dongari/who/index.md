@@ -1,56 +1,23 @@
 ---
-title: Who 학술 발표
-
-event: Who 컴퓨터인공지능학부 학술 동아리 발표회
-event_url: https://who-ai-club.org
-
-location: Who 동아리 회의실
-address:
-  street: 1234 대학로
-  city: 서울
-  region: 서울특별시
-  postcode: '12345'
-  country: 대한민국
-
-summary: Who 컴퓨터인공지능학부 동아리에서 진행하는 학술 발표입니다.
-abstract: '이번 발표는 인공지능 기술의 최신 동향을 주제로 다룹니다. 연구 결과와 실습 경험을 공유하는 시간이 될 것입니다.'
-
-date: '2024-11-01T13:00:00Z'
-date_end: '2024-11-01T15:00:00Z'
-all_day: false
-
-publishDate: '2024-10-01T00:00:00Z'
-
-authors:
-  - 학부 동아리 회원
-
-tags: [AI, 컴퓨터과학, 학술발표]
-
-featured: true
+title: "WHO"
+summary: "컴퓨터 인공지능 기술을 연구하고 공유하는 학술 동아리"
+date: 2024-03-01
 
 image:
-  caption: '이미지 출처: [**Unsplash**](https://unsplash.com/photos/tech)'
-  focal_point: Right
+  filename: "featured.jpg"
+  focal_point: "Center"
 
-url_code: 'https://github.com/who-ai-club'
-url_pdf: ''
-url_slides: 'https://slideshare.net/who-ai-club'
-url_video: 'https://youtube.com/who-ai-club'
-
-slides: ""
-
-projects:
-  - ai-research
+tags:
+  - 인공지능
+  - 머신러닝
+  - 컴퓨터과학
 ---
 
-{{% callout note %}}
-발표 슬라이드는 **Slides** 버튼을 클릭하여 확인하세요.
-{{% /callout %}}
+WHO는 컴퓨터 인공지능 분야에 관심이 있는 학생들이 모여 함께 연구하고 토론하는 학술 동아리입니다. 인공지능 기술에 대한 깊은 관심을 가진 누구나 참여할 수 있으며, 다양한 연구 및 프로젝트 활동을 통해 학문적 성과와 실무 경험을 쌓을 수 있습니다.
 
-슬라이드는 다음과 같은 방식으로 추가할 수 있습니다:
+## 주요 활동
+- 주간 스터디 및 세미나
+- 인공지능 프로젝트 진행
+- 관련 학회 및 경진대회 참가
 
-- **Hugo Blox Builder**의 [_Slides_](https://docs.hugoblox.com/reference/content-types/) 기능을 사용하여 제작한 슬라이드 링크
-- **기존 슬라이드**를 업로드하여 `url_slides`로 연결
-- Google Slides 또는 발표 영상을 [shortcodes](https://docs.hugoblox.com/reference/markdown/)로 삽입
-
-추가 이벤트 정보 및 페이지 구성 요소는 여기에 추가할 수 있습니다.
+인공지능 기술을 심도 있게 연구하고, 프로젝트를 통해 실질적인 경험을 쌓고 싶다면 WHO 동아리와 함께하세요! 인공지능과 컴퓨터과학에 관심 있는 모든 학생들을 환영합니다.

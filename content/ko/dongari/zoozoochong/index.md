@@ -1,7 +1,6 @@
 ---
 title: "주주총회"
 summary: "칵테일 문화를 탐구하고 즐기는 동아리"
-type: "event"
 date: 2024-03-01
 
 image:

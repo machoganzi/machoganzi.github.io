@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ko/event/zwagger/</loc>
+    <loc>http://localhost:1313/ko/dongari/zwagger/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -24,23 +24,13 @@
                 href="http://localhost:1313/ko/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/event/who/</loc>
+    <loc>http://localhost:1313/ko/dongari/who/</loc>
     <lastmod>2024-11-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ko/event/</loc>
+    <loc>http://localhost:1313/ko/dongari/</loc>
     <lastmod>2024-11-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/event/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99/</loc>
     <lastmod>2024-11-01T13:00:00+00:00</lastmod>
@@ -286,7 +276,7 @@
                 href="http://localhost:1313/ko/contact/instagram/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/event/film/</loc>
+    <loc>http://localhost:1313/ko/dongari/film/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -306,7 +296,7 @@
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ko/event/zoozoochong/</loc>
+    <loc>http://localhost:1313/ko/dongari/zoozoochong/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

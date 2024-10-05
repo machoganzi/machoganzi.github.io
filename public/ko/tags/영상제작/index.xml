@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>영상제작 | 전북대 김선강</title>
+    <link>http://localhost:1313/ko/tags/%EC%98%81%EC%83%81%EC%A0%9C%EC%9E%91/</link>
+      <atom:link href="http://localhost:1313/ko/tags/%EC%98%81%EC%83%81%EC%A0%9C%EC%9E%91/index.xml" rel="self" type="application/rss+xml" />
+    <description>영상제작</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>영상제작</title>
+      <link>http://localhost:1313/ko/tags/%EC%98%81%EC%83%81%EC%A0%9C%EC%9E%91/</link>
+    </image>
+    
+    <item>
+      <title>Film</title>
+      <link>http://localhost:1313/ko/dongari/film/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/dongari/film/</guid>
+      <description>&lt;p&gt;Film은 영화를 사랑하는 학생들이 모여 함께 영화 감상, 토론, 제작 등을 즐기는 동아리입니다. 영화에 대한 깊은 관심과 열정을 가진 누구나 참여할 수 있으며, 다양한 영화 관련 활동을 통해 영화에 대한 이해와 실무 경험을 쌓을 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;월간 영화 상영 및 토론 모임&lt;/li&gt;
+&lt;li&gt;단편 영화 제작 프로젝트&lt;/li&gt;
+&lt;li&gt;영화제 및 영상 제작 워크샵&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;영화를 감상하고 분석하는 것에서 나아가 직접 제작에도 도전해 보고 싶다면 Film 동아리와 함께하세요! 영화에 관심 있는 모든 학생들을 환영합니다.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

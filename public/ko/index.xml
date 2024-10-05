@@ -14,9 +14,9 @@
     
     <item>
       <title>Zwagger</title>
-      <link>http://localhost:1313/ko/event/zwagger/</link>
+      <link>http://localhost:1313/ko/dongari/zwagger/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/event/zwagger/</guid>
+      <guid>http://localhost:1313/ko/dongari/zwagger/</guid>
       <description>&lt;p&gt;Zwagger는 힙합 문화와 음악을 사랑하는 학생들의 모임입니다. 우리는 래핑, 비트메이킹, 브레이크댄싱 등 힙합의 다양한 요소를 탐구하고 발전시키는 활동을 합니다.&lt;/p&gt;
 &lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
 &lt;ul&gt;
@@ -25,29 +25,6 @@
 &lt;li&gt;지역 힙합 아티스트와의 콜라보레이션&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;힙합에 관심 있는 모든 학생들을 환영합니다. 경험이 없어도 괜찮습니다. 함께 배우고 성장하는 것이 우리의 목표입니다!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Who 학술 발표</title>
-      <link>http://localhost:1313/ko/event/who/</link>
-      <pubDate>Fri, 01 Nov 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/event/who/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;발표 슬라이드는 &lt;strong&gt;Slides&lt;/strong&gt; 버튼을 클릭하여 확인하세요.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;슬라이드는 다음과 같은 방식으로 추가할 수 있습니다:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hugo Blox Builder&lt;/strong&gt;의 
- 기능을 사용하여 제작한 슬라이드 링크&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;기존 슬라이드&lt;/strong&gt;를 업로드하여 &lt;code&gt;url_slides&lt;/code&gt;로 연결&lt;/li&gt;
-&lt;li&gt;Google Slides 또는 발표 영상을 
-로 삽입&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;추가 이벤트 정보 및 페이지 구성 요소는 여기에 추가할 수 있습니다.&lt;/p&gt;
 </description>
     </item>
     
@@ -153,26 +130,42 @@
     </item>
     
     <item>
-      <title>WHO</title>
-      <link>http://localhost:1313/ko/event/film/</link>
+      <title>Film</title>
+      <link>http://localhost:1313/ko/dongari/film/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/event/film/</guid>
-      <description>&lt;p&gt;WHO는 우리 과 학생들 간의 유대감을 강화하고 즐거운 대학 생활을 만들어가는 친목 동아리입니다. 학년과 전공에 관계없이 모든 학생들이 참여하여 다양한 활동을 통해 서로를 이해하고 지원합니다.&lt;/p&gt;
+      <guid>http://localhost:1313/ko/dongari/film/</guid>
+      <description>&lt;p&gt;Film은 영화를 사랑하는 학생들이 모여 함께 영화 감상, 토론, 제작 등을 즐기는 동아리입니다. 영화에 대한 깊은 관심과 열정을 가진 누구나 참여할 수 있으며, 다양한 영화 관련 활동을 통해 영화에 대한 이해와 실무 경험을 쌓을 수 있습니다.&lt;/p&gt;
 &lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;월간 친목 모임&lt;/li&gt;
-&lt;li&gt;학기별 MT 및 워크샵&lt;/li&gt;
-&lt;li&gt;선후배 멘토링 프로그램&lt;/li&gt;
+&lt;li&gt;월간 영화 상영 및 토론 모임&lt;/li&gt;
+&lt;li&gt;단편 영화 제작 프로젝트&lt;/li&gt;
+&lt;li&gt;영화제 및 영상 제작 워크샵&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;새로운 친구를 만들고, 선배들로부터 조언을 얻고, 대학 생활의 즐거운 추억을 만들고 싶다면 WHO와 함께하세요! 모든 과 학생들을 환영합니다.&lt;/p&gt;
+&lt;p&gt;영화를 감상하고 분석하는 것에서 나아가 직접 제작에도 도전해 보고 싶다면 Film 동아리와 함께하세요! 영화에 관심 있는 모든 학생들을 환영합니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WHO</title>
+      <link>http://localhost:1313/ko/dongari/who/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/dongari/who/</guid>
+      <description>&lt;p&gt;WHO는 컴퓨터 인공지능 분야에 관심이 있는 학생들이 모여 함께 연구하고 토론하는 학술 동아리입니다. 인공지능 기술에 대한 깊은 관심을 가진 누구나 참여할 수 있으며, 다양한 연구 및 프로젝트 활동을 통해 학문적 성과와 실무 경험을 쌓을 수 있습니다.&lt;/p&gt;
+&lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;주간 스터디 및 세미나&lt;/li&gt;
+&lt;li&gt;인공지능 프로젝트 진행&lt;/li&gt;
+&lt;li&gt;관련 학회 및 경진대회 참가&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;인공지능 기술을 심도 있게 연구하고, 프로젝트를 통해 실질적인 경험을 쌓고 싶다면 WHO 동아리와 함께하세요! 인공지능과 컴퓨터과학에 관심 있는 모든 학생들을 환영합니다.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>주주총회</title>
-      <link>http://localhost:1313/ko/event/zoozoochong/</link>
+      <link>http://localhost:1313/ko/dongari/zoozoochong/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/event/zoozoochong/</guid>
+      <guid>http://localhost:1313/ko/dongari/zoozoochong/</guid>
       <description>&lt;p&gt;주주총회는 칵테일 제조와 음료 문화에 관심 있는 학생들의 모임입니다. 우리는 다양한 칵테일 레시피를 연구하고, 새로운 맛을 창조하며, 책임감 있는 음주 문화를 장려합니다.&lt;/p&gt;
 &lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
 &lt;ul&gt;

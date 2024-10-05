@@ -92,7 +92,7 @@ sections:
       title: 💫 동아리 💫
       filters:
         folders:
-          - event
+          - dongari
     design:
       view: article-grid
       columns: 4
