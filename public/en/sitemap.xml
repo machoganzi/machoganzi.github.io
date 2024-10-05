@@ -184,6 +184,10 @@
                 href="http://localhost:1313/en/post/blog-1/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/post/blog-2/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/en/post/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>

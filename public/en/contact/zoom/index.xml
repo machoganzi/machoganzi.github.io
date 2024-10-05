@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🎥 Zoom에서 만나요! | 202011630 Kim Sun Gang</title>
+    <title>🎥 Let&#39;s Meet on Zoom! | 202011630 Kim Sun Gang</title>
     <link>http://localhost:1313/en/contact/zoom/</link>
       <atom:link href="http://localhost:1313/en/contact/zoom/index.xml" rel="self" type="application/rss+xml" />
-    <description>🎥 Zoom에서 만나요!</description>
+    <description>🎥 Let&#39;s Meet on Zoom!</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/en/contact/zoom/featured.jpg</url>
-      <title>🎥 Zoom에서 만나요!</title>
+      <title>🎥 Let&#39;s Meet on Zoom!</title>
       <link>http://localhost:1313/en/contact/zoom/</link>
     </image>
     

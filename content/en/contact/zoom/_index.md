@@ -1,36 +1,36 @@
 ---
 
-title: 🎥 Zoom에서 만나요!  
+title: 🎥 Let's Meet on Zoom!  
 date: 2024-03-29  
 
 ---
 ![featured image](./featured.jpg)
-# 👋 안녕하세요, Zoom 친구들!
+# 👋 Hello, Zoom Friends!
 
-여러분을 제 Zoom 미팅에 초대합니다. 게임, 학습, 그리고 다양한 주제로 직접 소통할 수 있는 공간입니다. 언제든 편하게 참여하세요!
+I invite you to join my Zoom meetings! It's a space where we can connect directly over various topics like gaming, studying, and more. Feel free to join anytime!
 
 <!--more-->
 
-## 🌟 Zoom에서 무엇을 할 수 있나요?
+## 🌟 What Can You Do on Zoom?
 
-- 🎮 게임 전략과 팁을 실시간으로 토론하기  
-- 📚 함께 공부하고 학습 팁을 교환하기  
-- 🗣️ 실시간으로 아이디어와 생각을 나누기  
-- 🤝 새로운 사람들과 화상으로 만나기
+- 🎮 Discuss gaming strategies and tips in real-time  
+- 📚 Study together and exchange learning tips  
+- 🗣️ Share ideas and thoughts live  
+- 🤝 Meet new people face-to-face through video calls
 
-## 💬 언제든 미팅에서 만나요!
+## 💬 Let's Meet Anytime!
 
-게임, 공부, 혹은 그냥 소소한 이야기를 나누고 싶으신가요?  
-Zoom 미팅을 통해 언제든 실시간으로 소통할 수 있습니다. 함께 이야기 나눠요!
+Want to chat about gaming, studying, or just have a casual conversation?  
+We can connect and chat in real-time through Zoom meetings. Let's talk soon!
 
-**Zoom 미팅 링크:** [여기를 클릭하세요](#) *(링크를 추가해주세요)*
+**Zoom Meeting Link:** [Click here](#) *(Add the link)*
 
 ---
 
-> "진정한 소통은 얼굴을 마주보고 이루어진다." - 불명
+> "True communication happens face to face." - Unknown
 
 <!--more-->
 
-*PS: 미팅 중에도 서로 존중하며, 모두가 즐길 수 있는 대화를 이어가길 바랍니다!* 😊
+*PS: Even during meetings, let's be respectful and make sure everyone enjoys the conversation!* 😊
 
 ---
