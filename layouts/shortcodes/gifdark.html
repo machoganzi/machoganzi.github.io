@@ -1,14 +1,6 @@
 {{ $lightGif := .Get 0 }}
 {{ $darkGif := .Get 1 }}
 <style>
-  :root {
-    --bg-image: url('{{ $lightGif }}');
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg-image: url('{{ $darkGif }}');
-    }
-  }
   body::before {
     content: "";
     position: fixed;
@@ -18,9 +10,14 @@
     height: 100%;
     z-index: -1;
     pointer-events: none;
-    background-image: var(--bg-image);
+    background-image: url('{{ $lightGif }}');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+  }
+  @media (prefers-color-scheme: dark) {
+    body::before {
+      background-image: url('{{ $darkGif }}');
+    }
   }
 </style>
