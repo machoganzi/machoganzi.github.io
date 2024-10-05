@@ -41,3 +41,9 @@
 이 웹사이트는 `Hugo`와 `Hugo Blox` 테마를 사용하여 제작되었습니다.  
 사이트 전체에 다크 모드와 힙한 배경 이미지가 적용되어 있어 감각적인 분위기를 자랑합니다.  
 페이지의 각 섹션에는 이미지 슬라이더, 그리드 레이아웃, 그리고 깔끔한 CTA 카드가 포함되어 있습니다.
+
+## 💻 설치 및 실행 방법
+
+1. 이 저장소를 클론합니다:
+   ```bash
+   git clone https://github.com/yourusername/yourrepository.git
