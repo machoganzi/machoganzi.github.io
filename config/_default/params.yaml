@@ -53,5 +53,3 @@ features:
   privacy_pack:
     enable: false
 
-contact:
-  view: card

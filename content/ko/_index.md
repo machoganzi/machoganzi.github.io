@@ -90,16 +90,13 @@ sections:
     id: talks
     content:
       title: 💫 동아리 💫
-      count: 10
       filters:
         folders:
           - event
-        kinds:
-          - page
     design:
-      view: custom_grid
-      columns: "1"
-
+      view: article-grid
+      columns: 4
+     
   - block: collection
     id: blog
     content:
