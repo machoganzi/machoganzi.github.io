@@ -1,37 +1,37 @@
 ---
 
-title: 🎧 SoundCloud에서 만나요!  
+title: 🎧 Join Me on SoundCloud!  
 date: 2024-03-29  
 
 ---
 ![featured image](./featured.jpg)
-# 👋 안녕하세요, SoundCloud 친구들!
+# 👋 Hello, SoundCloud Friends!
 
-음악과 이야기, 그리고 그 사이의 모든 것에 대해 소통할 수 있는 저의 SoundCloud 프로필에 여러분을 초대합니다.  
-음악을 통해 함께 연결되고, 취향을 나눠요!
+I’m inviting you to my SoundCloud profile, where we can connect through music, conversations, and everything in between.  
+Let’s share our tastes and connect through the power of music!
 
 <!--more-->
 
-## 🌟 SoundCloud에서 무엇을 할 수 있나요?
+## 🌟 What Can You Do on SoundCloud?
 
-- 🎶 좋아하는 음악과 플레이리스트 공유하기  
-- 🗣️ 음악을 통해 감정과 생각 나누기  
-- 🎮 게임이나 공부할 때 듣기 좋은 음악 추천받기  
-- 🤝 음악으로 새로운 친구 만나기
+- 🎶 Share your favorite music and playlists  
+- 🗣️ Express thoughts and emotions through music  
+- 🎮 Get music recommendations perfect for gaming or studying  
+- 🤝 Meet new friends through the love of music  
 
-## 💬 언제든 메시지 주세요!
+## 💬 Feel Free to Message Me Anytime!
 
-음악에 대해 이야기하고 싶으신가요? 아니면 공부나 게임 이야기까지?  
-언제든 편하게 다가와 주세요. 여러분의 메시지를 기다리고 있습니다!
+Want to talk about music? Or maybe discuss gaming or studying?  
+Reach out anytime—I’m always happy to chat with you!
 
-**SoundCloud 프로필 링크:** [여기를 클릭하세요](https://soundcloud.com/hoodkidwhowarftheworld) 
+**SoundCloud Profile Link:** [Click here](https://soundcloud.com/hoodkidwhowarftheworld) 
 
 ---
 
-> "음악은 마음의 언어다." - 불명
+> "Music is the language of the heart." – Unknown
 
 <!--more-->
 
-*PS: 함께하는 시간을 존중하고 배려하며, 즐겁고 긍정적인 커뮤니티를 만들어 나가요!* 😊
+*PS: Let’s create a positive and enjoyable community by respecting and supporting each other!* 😊
 
 ---
