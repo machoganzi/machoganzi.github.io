@@ -28,6 +28,3 @@ main:
     parent: 연락처
     url: contact/
     weight: 20
-  - name: 방명록
-    weight: 50
-    url: guestbook/

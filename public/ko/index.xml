@@ -432,21 +432,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>방명록</title>
-      <link>http://localhost:1313/ko/guestbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/guestbook/</guid>
-      <description>&lt;h1 id=&#34;방명록-&#34;&gt;방명록 📖&lt;/h1&gt;
-&lt;p&gt;여러분의 이야기를 남겨주세요! 방명록에 글을 남기시려면 
-에서 PR을 보내주세요.&lt;/p&gt;
-&lt;h2 id=&#34;방명록에-남겨진-이야기들&#34;&gt;방명록에 남겨진 이야기들:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;User1&lt;/strong&gt;: &amp;ldquo;정말 멋진 웹사이트네요!&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;User2&lt;/strong&gt;: &amp;ldquo;다음 프로젝트 기대할게요!&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
