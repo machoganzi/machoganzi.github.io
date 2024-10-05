@@ -43,7 +43,7 @@ sections:
       columns: '1'
 
   # 슬라이더 블록 (shortcode 사용)
-  - block: custom_slider
+  - block: custom_slider1
     content:
       dir: "" 
       height: "" 
