@@ -232,24 +232,46 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
+      <title></title>
       <link>http://localhost:1313/ko/planned/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/planned/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;-데이터베이스-관리자-연구-계획-&#34;&gt;📚 데이터베이스 관리자 연구 계획 🎓&lt;/h1&gt;
+&lt;h2 id=&#34;-개요&#34;&gt;🌟 개요&lt;/h2&gt;
+&lt;p&gt;데이터베이스 관리자가 뭐 하는 사람인지 궁금해 본 적 있나요? 🤔&lt;br&gt;
+저는 이 연구를 통해 **데이터베이스 관리자(DBA)**의 역할이 어떻게 변화할지, 그리고 미래에 어떤 기술이 필요할지 탐구할 거예요! 🚀&lt;/p&gt;
+&lt;h2 id=&#34;-연구-목표&#34;&gt;🎯 연구 목표&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DB 관리 기술 분석&lt;/strong&gt;&lt;br&gt;
+데이터베이스를 더 똑똑하게 관리할 수 있는 방법을 찾아봐요! 💡&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;미래 기술 예측&lt;/strong&gt;&lt;br&gt;
+앞으로의 데이터 환경에서 &lt;strong&gt;관리자가 알아야 할 기술&lt;/strong&gt;은 무엇일까요? 🔮&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;관리 자동화&lt;/strong&gt;&lt;br&gt;
+사람이 다 할 필요는 없잖아요? 🤖&lt;br&gt;
+&lt;strong&gt;자동화&lt;/strong&gt;로 데이터베이스 관리가 얼마나 편해질지 알아봅니다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;-핵심-연구-질문&#34;&gt;❓ 핵심 연구 질문&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터베이스 관리자의 &lt;strong&gt;역할은 앞으로 어떻게 변할까&lt;/strong&gt;? 📈&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;빅데이터&lt;/strong&gt; 시대에 데이터는 어떻게 효율적으로 관리될까? 📊&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;자동화 기술&lt;/strong&gt;이 얼마나 도움이 될까? ⚙️&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-연구의-중요성&#34;&gt;📝 연구의 중요성&lt;/h2&gt;
+&lt;p&gt;이 연구는 저처럼 &lt;strong&gt;미래의 데이터베이스 관리자&lt;/strong&gt;를 꿈꾸는 사람들에게 필요한 기술과 역량을 미리 준비할 수 있게 도와줄 거예요! 💼&lt;/p&gt;
+&lt;h2 id=&#34;-키워드&#34;&gt;🔑 키워드&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터베이스 관리자 🛠️&lt;/li&gt;
+&lt;li&gt;DBMS 🗄️&lt;/li&gt;
+&lt;li&gt;빅데이터 💾&lt;/li&gt;
+&lt;li&gt;자동화 🤖&lt;/li&gt;
+&lt;li&gt;미래 기술 🔮&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

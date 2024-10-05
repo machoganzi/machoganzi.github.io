@@ -1,87 +1,31 @@
----
-title: 'An example conference paper'
+# 📚 데이터베이스 관리자 연구 계획 🎓
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Robert Ford
+## 🌟 개요
+데이터베이스 관리자가 뭐 하는 사람인지 궁금해 본 적 있나요? 🤔  
+저는 이 연구를 통해 **데이터베이스 관리자(DBA)**의 역할이 어떻게 변화할지, 그리고 미래에 어떤 기술이 필요할지 탐구할 거예요! 🚀
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+## 🎯 연구 목표
+1. **DB 관리 기술 분석**  
+   데이터베이스를 더 똑똑하게 관리할 수 있는 방법을 찾아봐요! 💡  
+   
+2. **미래 기술 예측**  
+   앞으로의 데이터 환경에서 **관리자가 알아야 할 기술**은 무엇일까요? 🔮
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+3. **관리 자동화**  
+   사람이 다 할 필요는 없잖아요? 🤖  
+   **자동화**로 데이터베이스 관리가 얼마나 편해질지 알아봅니다.
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+## ❓ 핵심 연구 질문
+- 데이터베이스 관리자의 **역할은 앞으로 어떻게 변할까**? 📈
+- **빅데이터** 시대에 데이터는 어떻게 효율적으로 관리될까? 📊
+- **자동화 기술**이 얼마나 도움이 될까? ⚙️
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+## 📝 연구의 중요성
+이 연구는 저처럼 **미래의 데이터베이스 관리자**를 꿈꾸는 사람들에게 필요한 기술과 역량을 미리 준비할 수 있게 도와줄 거예요! 💼
 
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-  - Large Language Models
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+## 🔑 키워드
+- 데이터베이스 관리자 🛠️
+- DBMS 🗄️
+- 빅데이터 💾
+- 자동화 🤖
+- 미래 기술 🔮
