@@ -42,6 +42,7 @@
       "ruby",
       "script",
       "section",
+      "source",
       "span",
       "strong",
       "style",
@@ -49,7 +50,8 @@
       "svg",
       "time",
       "title",
-      "ul"
+      "ul",
+      "video"
     ],
     "classes": [
       "!mb-4",
