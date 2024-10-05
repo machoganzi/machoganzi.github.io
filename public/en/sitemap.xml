@@ -459,44 +459,14 @@
     <loc>http://localhost:1313/en/planned/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/planned/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/planned/conference-paper/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/large-language-models/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/tags/large-language-models/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/large-language-models/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/publication_types/paper-conference/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/paper-conference/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/event/example/</loc>
     <changefreq>weekly</changefreq>

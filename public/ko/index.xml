@@ -29,35 +29,111 @@
     </item>
     
     <item>
-      <title>Web Service Design: Personal Learning</title>
+      <title>나만의 요리 연구! 🍕</title>
+      <link>http://localhost:1313/ko/planned/journal-article/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/planned/journal-article/</guid>
+      <description>&lt;h2 id=&#34;-요리-연구-계획-&#34;&gt;🍳 요리 연구 계획 🧑‍🍳&lt;/h2&gt;
+&lt;h3 id=&#34;1-요리의-기초-배우기-6개월&#34;&gt;1. 요리의 기초 배우기 (6개월)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;처음엔 &lt;strong&gt;기본부터&lt;/strong&gt;! 기초적인 칼질, 재료 손질 방법, 그리고 계란후라이부터 시작하는 간단한 요리들을 연습할 거예요. 🍳🥬&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;유튜브&lt;/strong&gt;나 &lt;strong&gt;쿠킹 클래스&lt;/strong&gt;를 찾아보면서 나만의 요리 스타일을 만들어볼 거예요! 😊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-세계-요리-탐방-1년&#34;&gt;2. 세계 요리 탐방 (1년)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;각 나라의 대표 요리를 배워보고 싶어요! 🌍&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;이탈리아 파스타&lt;/strong&gt;부터 &lt;strong&gt;일본 스시&lt;/strong&gt;, &lt;strong&gt;프랑스 디저트&lt;/strong&gt;까지! 다양한 레시피를 시도하면서 나만의 요리 노하우를 쌓을 거예요. 🍝🍣🍰&lt;/li&gt;
+&lt;li&gt;새로운 요리를 만들 때마다 친구들을 불러서 &lt;strong&gt;테이스팅 파티&lt;/strong&gt;도 열 계획입니다! 🎉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-나만의-요리-창작-지속적인-활동&#34;&gt;3. 나만의 요리 창작 (지속적인 활동)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;기본이 탄탄해지면 이제는 &lt;strong&gt;나만의 요리&lt;/strong&gt;를 만들어볼 거예요. 🍲&lt;/li&gt;
+&lt;li&gt;재료들을 마음껏 조합해서 내가 먹고 싶은 요리를 만들어보고, 실패도 해보고, 더 맛있게 만드는 방법을 고민할 거예요.&lt;/li&gt;
+&lt;li&gt;요리 노트를 쓰면서 어떤 재료가 잘 어울리는지, 맛의 균형은 어떻게 맞출지 연구해 나갈 거예요. ✍️📖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-친구들과의-요리-시간-지속적인-활동&#34;&gt;4. 친구들과의 요리 시간 (지속적인 활동)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;혼자만 요리하는 건 재미없으니, &lt;strong&gt;친구들&lt;/strong&gt;과 함께 요리할 계획이에요!&lt;/li&gt;
+&lt;li&gt;매주 한 번씩 친구들을 초대해서 다 함께 음식을 만들고, 서로의 요리를 맛보는 &lt;strong&gt;쿠킹 데이&lt;/strong&gt;를 열 거예요. 🍕👯‍♂️&lt;/li&gt;
+&lt;li&gt;가끔은 요리 대결을 해서 승자를 정하는 재미있는 시간도 가져볼 생각입니다! 🏆🎊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-요리-블로그나-소셜-미디어-시작하기-마지막-6개월&#34;&gt;5. 요리 블로그나 소셜 미디어 시작하기 (마지막 6개월)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;내가 만든 요리들을 &lt;strong&gt;기록&lt;/strong&gt;하고 싶어서, 요리 블로그나 &lt;strong&gt;인스타그램&lt;/strong&gt; 같은 소셜 미디어에 요리 사진과 레시피를 올릴 거예요! 📸🍴&lt;/li&gt;
+&lt;li&gt;다른 사람들과도 소통하면서 피드백을 받고, 더 많은 요리 아이디어를 얻을 수 있을 것 같아요. 💬💡&lt;/li&gt;
+&lt;li&gt;나만의 요리법을 세상과 공유하는 멋진 셰프가 되는 게 꿈이에요! ✨👩‍🍳&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;요리는 즐거움! 🍽️ 이 계획을 따라가면서 요리에 대한 사랑을 더 키워나가고, 언젠가는 내 손맛을 자랑하는 &lt;strong&gt;멋진 셰프&lt;/strong&gt;가 될 거예요. 😎🔥&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>데이터 베이스 관리자</title>
+      <link>http://localhost:1313/ko/planned/conference-paper/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/planned/conference-paper/</guid>
+      <description>&lt;h2 id=&#34;데이터베이스-관리자-공부-플랜&#34;&gt;데이터베이스 관리자 공부 플랜&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 기본 개념 학습 (6개월)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터베이스 관리 시스템(DBMS)과 데이터베이스 개념을 제대로 배우기 위해 Coursera나 Udemy 같은 플랫폼에서 온라인 강의를 들을 계획입니다.&lt;/li&gt;
+&lt;li&gt;또한, *&amp;ldquo;Database System Concepts&amp;rdquo;*나 &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; 같은 책을 읽어 기초 이론을 탄탄히 다질 겁니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. 프로그래밍 기술 향상 (지속적인 학습)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL은 물론, Python과 JavaScript 같은 프로그래밍 언어를 꾸준히 연습할 예정입니다.&lt;/li&gt;
+&lt;li&gt;LeetCode나 Codewars에서 코딩 문제를 풀며 문제 해결 능력을 키울 생각입니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. 프로젝트 수행 (1년)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;직접 간단한 데이터베이스 기반 애플리케이션을 만들고 싶은데, 예를 들면 개인 쇼핑몰이나 블로그 플랫폼 같은 프로젝트를 시작할 계획입니다.&lt;/li&gt;
+&lt;li&gt;GitHub에서 오픈 소스 프로젝트에 참여하면서 실전 경험도 쌓을 예정입니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. 커뮤니티 참여 및 네트워킹 (지속적인 활동)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터베이스 관련 온라인 커뮤니티(예: Reddit, Stack Overflow)에 적극적으로 참여하고, 질문과 답변을 통해 지식을 넓혀갈 생각입니다.&lt;/li&gt;
+&lt;li&gt;또, 데이터베이스 컨퍼런스나 웨비나에도 참가해 최신 기술 트렌드에 대해 배울 예정입니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. 연구 및 글쓰기 (마지막 6개월)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;데이터베이스 관리와 관련된 흥미로운 주제를 정해서 연구할 계획입니다. 예를 들어, 확장 가능한 데이터베이스 아키텍처 같은 주제가 좋을 것 같습니다.&lt;/li&gt;
+&lt;li&gt;연구한 내용을 블로그에 정리하거나 소규모 보고서를 작성해서 내 지식을 공유하고 정리해볼 겁니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;이 계획을 통해 데이터베이스 관리자가 되기 위한 기술과 경험을 하나씩 쌓아갈 예정입니다! 꾸준히 노력해서 목표를 이룰 생각입니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>웹 서비스 디자인: 개인 학습</title>
       <link>http://localhost:1313/ko/planned/preprint/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/planned/preprint/</guid>
-      <description>&lt;h2 id=&#34;major-study-plan&#34;&gt;Major study plan&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;1. Learning the Basics (6 months)&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;주요-학습-계획&#34;&gt;주요 학습 계획&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 기초 배우기 (6개월)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Take online courses on web service design and development (e.g., Coursera, Udemy)&lt;/li&gt;
-&lt;li&gt;Read books like &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Coursera나 Udemy에서 웹 서비스 디자인 및 개발에 대한 온라인 강의를 수강할 예정입니다.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; 및 &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt; 같은 책을 읽을 계획입니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Improving Programming Skills (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 프로그래밍 기술 향상 (지속적인 학습)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Practice coding regularly using languages like JavaScript, Python, and SQL&lt;/li&gt;
-&lt;li&gt;Work on weekly coding challenges (e.g., LeetCode, Codewars) to sharpen problem-solving skills&lt;/li&gt;
+&lt;li&gt;JavaScript, Python, SQL과 같은 언어를 사용해 정기적으로 코딩 연습을 할 것입니다.&lt;/li&gt;
+&lt;li&gt;LeetCode, Codewars와 같은 사이트에서 주간 코딩 챌린지를 통해 문제 해결 능력을 키울 예정입니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Working on Projects (1 year)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 프로젝트 작업 (1년)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Start a personal project, like building a simple e-commerce site or a blog platform&lt;/li&gt;
-&lt;li&gt;Contribute to open-source projects related to web development&lt;/li&gt;
+&lt;li&gt;간단한 전자상거래 사이트나 블로그 플랫폼을 만드는 개인 프로젝트를 시작할 계획입니다.&lt;/li&gt;
+&lt;li&gt;웹 개발 관련 오픈 소스 프로젝트에 기여할 예정입니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;4. Networking and Joining Communities (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 네트워킹 및 커뮤니티 참여 (지속적인 활동)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Attend web development meetups or join online communities (e.g., Reddit, Stack Overflow)&lt;/li&gt;
-&lt;li&gt;Participate in web development conferences or webinars to stay updated on trends&lt;/li&gt;
+&lt;li&gt;웹 개발 밋업에 참석하거나 Reddit, Stack Overflow와 같은 온라인 커뮤니티에 참여할 것입니다.&lt;/li&gt;
+&lt;li&gt;최신 트렌드를 배우기 위해 웹 개발 컨퍼런스나 웨비나에 참여할 예정입니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;5. Research and Writing (Final 6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 연구 및 글쓰기 (마지막 6개월)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Pick a topic that interests you, like scalable web service architecture&lt;/li&gt;
-&lt;li&gt;Conduct research and document your findings in a blog or small report&lt;/li&gt;
+&lt;li&gt;확장 가능한 웹 서비스 아키텍처와 같은 흥미로운 주제를 선택할 것입니다.&lt;/li&gt;
+&lt;li&gt;연구를 진행하고, 그 결과를 블로그나 작은 보고서로 문서화할 예정입니다.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -207,72 +283,6 @@
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/contact_person/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/ko/planned/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/planned/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ko/planned/conference-paper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/planned/conference-paper/</guid>
-      <description>&lt;h1 id=&#34;-데이터베이스-관리자-연구-계획-&#34;&gt;📚 데이터베이스 관리자 연구 계획 🎓&lt;/h1&gt;
-&lt;h2 id=&#34;-개요&#34;&gt;🌟 개요&lt;/h2&gt;
-&lt;p&gt;데이터베이스 관리자가 뭐 하는 사람인지 궁금해 본 적 있나요? 🤔&lt;br&gt;
-저는 이 연구를 통해 **데이터베이스 관리자(DBA)**의 역할이 어떻게 변화할지, 그리고 미래에 어떤 기술이 필요할지 탐구할 거예요! 🚀&lt;/p&gt;
-&lt;h2 id=&#34;-연구-목표&#34;&gt;🎯 연구 목표&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;DB 관리 기술 분석&lt;/strong&gt;&lt;br&gt;
-데이터베이스를 더 똑똑하게 관리할 수 있는 방법을 찾아봐요! 💡&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;미래 기술 예측&lt;/strong&gt;&lt;br&gt;
-앞으로의 데이터 환경에서 &lt;strong&gt;관리자가 알아야 할 기술&lt;/strong&gt;은 무엇일까요? 🔮&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;관리 자동화&lt;/strong&gt;&lt;br&gt;
-사람이 다 할 필요는 없잖아요? 🤖&lt;br&gt;
-&lt;strong&gt;자동화&lt;/strong&gt;로 데이터베이스 관리가 얼마나 편해질지 알아봅니다.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;-핵심-연구-질문&#34;&gt;❓ 핵심 연구 질문&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;데이터베이스 관리자의 &lt;strong&gt;역할은 앞으로 어떻게 변할까&lt;/strong&gt;? 📈&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;빅데이터&lt;/strong&gt; 시대에 데이터는 어떻게 효율적으로 관리될까? 📊&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;자동화 기술&lt;/strong&gt;이 얼마나 도움이 될까? ⚙️&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-연구의-중요성&#34;&gt;📝 연구의 중요성&lt;/h2&gt;
-&lt;p&gt;이 연구는 저처럼 &lt;strong&gt;미래의 데이터베이스 관리자&lt;/strong&gt;를 꿈꾸는 사람들에게 필요한 기술과 역량을 미리 준비할 수 있게 도와줄 거예요! 💼&lt;/p&gt;
-&lt;h2 id=&#34;-키워드&#34;&gt;🔑 키워드&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;데이터베이스 관리자 🛠️&lt;/li&gt;
-&lt;li&gt;DBMS 🗄️&lt;/li&gt;
-&lt;li&gt;빅데이터 💾&lt;/li&gt;
-&lt;li&gt;자동화 🤖&lt;/li&gt;
-&lt;li&gt;미래 기술 🔮&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
