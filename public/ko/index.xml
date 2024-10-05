@@ -370,7 +370,12 @@
       <link>http://localhost:1313/ko/project/insquare/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/project/insquare/</guid>
-      <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;</description>
+      <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34; target=&#34;_blank&#34;&gt;
+  &lt;button style=&#34;padding:10px 20px; font-size:16px; background-color:#007BFF; color:white; border:none; border-radius:5px; cursor:pointer;&#34;&gt;
+    Watch Video
+  &lt;/button&gt;
+&lt;/a&gt;</description>
     </item>
     
     <item>
