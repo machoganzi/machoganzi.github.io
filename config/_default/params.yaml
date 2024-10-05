@@ -2,7 +2,7 @@
 appearance:
   mode: system
   color: emerald
-
+  favicon: logo.png  # static 폴더 내의 파비콘 파일 경로
 # SEO
 marketing:
   seo:
@@ -11,7 +11,7 @@ marketing:
     org_name: '전북대학교'
     description: '전북대학교 김선강 학생의 개인 학술 웹사이트입니다.'
     twitter: 'GetResearchDev'
-    keywords: ['전북대', '김선강', '학생', '학술', '연구']
+    keywords: ['전북대', '김선강', '학생', '학술', '연구', '컴퓨터공학부', '컴퓨터인공지능학부', 'JBNU', 'Kim Sun Gang', '전북대학교', '컴퓨터']
   analytics:
     google_analytics: '' # Google Analytics 추적 ID를 여기에 추가하세요
   verification:
