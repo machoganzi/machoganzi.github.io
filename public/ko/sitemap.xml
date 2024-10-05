@@ -118,17 +118,37 @@
                 href="http://localhost:1313/ko/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/planned/journal-article/</loc>
+    <loc>http://localhost:1313/ko/planned/cook/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/planned/cook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/planned/cook/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/%EB%8B%AC%EA%B1%80/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/ko/planned/conference-paper/</loc>
+    <loc>http://localhost:1313/ko/planned/databasework/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/planned/databasework/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/planned/databasework/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/%EC%89%90%ED%94%84/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
@@ -152,9 +172,19 @@
                 href="http://localhost:1313/ko/post/blog-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/planned/preprint/</loc>
+    <loc>http://localhost:1313/ko/planned/webservice/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/planned/webservice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/planned/webservice/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/post/blog-3/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
@@ -420,6 +450,10 @@
   </url><url>
     <loc>http://localhost:1313/ko/tags/%ED%9E%99%ED%95%A9/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/ko/guestbook/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/ko/tags/android-studio/</loc>

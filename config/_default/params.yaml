@@ -28,8 +28,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "😎김선강😎"
-      filename: ''
+      text: ""
+      filename: 'projectwallpaper.gif'
 
 # Site footer
 footer:

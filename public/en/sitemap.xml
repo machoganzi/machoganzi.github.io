@@ -69,6 +69,16 @@
     <loc>http://localhost:1313/en/planned/databasework/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/planned/databasework/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/planned/databasework/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/eggs/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
@@ -109,6 +119,16 @@
     <loc>http://localhost:1313/en/planned/cook/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/planned/cook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/planned/cook/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/planned/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
@@ -155,6 +175,16 @@
     <loc>http://localhost:1313/en/planned/webservice/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/planned/webservice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/planned/webservice/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/post/blog-3/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
