@@ -10,7 +10,7 @@ main:
   - name: Plan
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: College-Club
     url: /#talks
     weight: 12
   - name: Blog
@@ -22,6 +22,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: Contact
+    url: /contact/
+    weight: 40
   - name: Meeting in Person
     parent: Contact
     url: contact_person/
@@ -30,3 +33,4 @@ main:
     parent: Contact
     url: contact/
     weight: 20
+

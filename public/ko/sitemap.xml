@@ -7,7 +7,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/ko/post/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -148,6 +148,20 @@
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/ko/post/blog-2/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/blog-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/post/blog-2/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ko/planned/preprint/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -160,6 +174,20 @@
                 rel="alternate"
                 hreflang="ko-kr"
                 href="http://localhost:1313/ko/planned/preprint/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ko/post/blog-3/</loc>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/blog-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/post/blog-3/"
                 />
   </url><url>
     <loc>http://localhost:1313/ko/project/restaurant_service/</loc>
@@ -189,6 +217,10 @@
                 hreflang="ko-kr"
                 href="http://localhost:1313/ko/project/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/ko/post/blog-4/</loc>
+    <lastmod>2024-09-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/ko/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>

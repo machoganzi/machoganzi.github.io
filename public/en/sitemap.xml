@@ -159,6 +159,16 @@
     <loc>http://localhost:1313/en/post/blog-2/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/post/blog-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/blog-2/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/post/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
@@ -177,6 +187,16 @@
     <loc>http://localhost:1313/en/post/blog-3/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/post/blog-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/blog-3/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/contact/zoom/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
