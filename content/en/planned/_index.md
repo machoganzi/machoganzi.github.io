@@ -1,5 +1,5 @@
 ---
-title: planned
+title: plan
 cms_exclude: true
 
 # View.
