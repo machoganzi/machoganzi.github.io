@@ -16,13 +16,13 @@ params:
 # Website name
 title: 202011630 Kim Sun Gang
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://machoganzi.com/'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ko
 hasCJKLanguage: true # 한국어 파일 설정
 defaultContentLanguageInSubdir: true
 removePathAccents: true

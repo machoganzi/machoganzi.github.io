@@ -5,12 +5,46 @@
     <link>http://localhost:1313/en/tags/css/</link>
       <atom:link href="http://localhost:1313/en/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <description>CSS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
       <title>CSS</title>
       <link>http://localhost:1313/en/tags/css/</link>
     </image>
+    
+    <item>
+      <title>Web Service Design: Personal Learning</title>
+      <link>http://localhost:1313/en/planned/preprint/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/planned/preprint/</guid>
+      <description>&lt;h2 id=&#34;major-study-plan&#34;&gt;Major study plan&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Learning the Basics (6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Take online courses on web service design and development (e.g., Coursera, Udemy)&lt;/li&gt;
+&lt;li&gt;Read books like &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Improving Programming Skills (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practice coding regularly using languages like JavaScript, Python, and SQL&lt;/li&gt;
+&lt;li&gt;Work on weekly coding challenges (e.g., LeetCode, Codewars) to sharpen problem-solving skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Working on Projects (1 year)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start a personal project, like building a simple e-commerce site or a blog platform&lt;/li&gt;
+&lt;li&gt;Contribute to open-source projects related to web development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Networking and Joining Communities (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attend web development meetups or join online communities (e.g., Reddit, Stack Overflow)&lt;/li&gt;
+&lt;li&gt;Participate in web development conferences or webinars to stay updated on trends&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Research and Writing (Final 6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pick a topic that interests you, like scalable web service architecture&lt;/li&gt;
+&lt;li&gt;Conduct research and document your findings in a blog or small report&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Nyamjjupnyamjjup-Restaurant service web page</title>

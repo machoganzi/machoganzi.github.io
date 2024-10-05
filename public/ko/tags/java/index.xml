@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java | 202011630 Kim Sun Gang</title>
+    <link>http://localhost:1313/ko/tags/java/</link>
+      <atom:link href="http://localhost:1313/ko/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <description>Java</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>Java</title>
+      <link>http://localhost:1313/ko/tags/java/</link>
+    </image>
+    
+    <item>
+      <title>InSquare - Business card application</title>
+      <link>http://localhost:1313/ko/project/insquare/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/project/insquare/</guid>
+      <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/ko/project/</link>
       <atom:link href="http://localhost:1313/ko/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
       <title>Projects</title>
@@ -13,27 +13,27 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/ko/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>Nyamjjupnyamjjup-Restaurant service web page</title>
+      <link>http://localhost:1313/ko/project/restaurant_service/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/project/restaurant_service/</guid>
+      <description>&lt;p&gt;Creating web pages for providing restaurant services&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/ko/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>InSquare - Business card application</title>
+      <link>http://localhost:1313/ko/project/insquare/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/project/insquare/</guid>
+      <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/ko/project/scikit/</link>
+      <title>Linux-Locker server</title>
+      <link>http://localhost:1313/ko/project/locker_server/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ko/project/locker_server/</guid>
+      <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL | 202011630 Kim Sun Gang</title>
+    <link>http://localhost:1313/ko/tags/sql/</link>
+      <atom:link href="http://localhost:1313/ko/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <description>SQL</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>SQL</title>
+      <link>http://localhost:1313/ko/tags/sql/</link>
+    </image>
+    
+    <item>
+      <title>Nyamjjupnyamjjup-Restaurant service web page</title>
+      <link>http://localhost:1313/ko/project/restaurant_service/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/project/restaurant_service/</guid>
+      <description>&lt;p&gt;Creating web pages for providing restaurant services&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

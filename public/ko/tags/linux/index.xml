@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | 202011630 Kim Sun Gang</title>
+    <link>http://localhost:1313/ko/tags/linux/</link>
+      <atom:link href="http://localhost:1313/ko/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>Linux</title>
+      <link>http://localhost:1313/ko/tags/linux/</link>
+    </image>
+    
+    <item>
+      <title>Linux-Locker server</title>
+      <link>http://localhost:1313/ko/project/locker_server/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/project/locker_server/</guid>
+      <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
