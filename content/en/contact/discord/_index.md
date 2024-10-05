@@ -1,33 +1,33 @@
 ---
-title: 🎮 Discord에서 만나요!
+title: 🎮 Join Me on Discord!
 date: 2024-03-29
-tags: [소통, 게임, 학습]
+tags: [Community, Gaming, Learning]
 ---
 ![featured image](./featured.jpg)
-# 👋 안녕하세요, 디스코드 친구들!
+# 👋 Hello, Discord Friends!
 
-여러분을 제 Discord 서버에 초대합니다. 게임, 학습, 그리고 그 사이의 모든 것에 대해 이야기 나눌 수 있는 공간입니다.
+I'm inviting you to join my Discord server, a space where we can talk about gaming, learning, and everything in between.
 
 <!--more-->
 
-## 🌟 여기서 무엇을 할 수 있나요?
+## 🌟 What Can You Do Here?
 
-- 🎮 최신 게임에 대해 토론하기
-- 📚 학습 팁과 자료 공유하기
-- 🤝 새로운 친구 사귀기
-- 🧠 재미있는 퀴즈와 챌린지에 참여하기
+- 🎮 Discuss the latest games
+- 📚 Share study tips and resources
+- 🤝 Make new friends
+- 🧠 Participate in fun quizzes and challenges
 
-## 💬 언제든 연락주세요!
+## 💬 Reach Out Anytime!
 
-게임이나 공부에 대해 이야기하고 싶으신가요? 아니면 그냥 수다 떨고 싶으신가요? 
-제 Discord 서버에 들러주세요. 여러분을 환영합니다!
+Want to chat about gaming, study, or just hang out?  
+Drop by my Discord server—you're always welcome!
 
-**Discord 서버 링크:** [여기를 클릭하세요](https://discord.gg/69qUb9RVnz) 
+**Discord Server Link:** [Click here](https://discord.gg/69qUb9RVnz)
 
 ---
 
-> "혼자 가면 빨리 갈 수 있지만, 함께 가면 더 멀리 갈 수 있다." - 아프리카 속담
+> "If you want to go fast, go alone. If you want to go far, go together." – African Proverb
 
 <!--more-->
 
-*PS: 서버 규칙을 지켜주시고 서로 존중하는 마음으로 대화해주세요. 함께 즐거운 커뮤니티를 만들어가요!* 😊
+*PS: Please follow the server rules and communicate respectfully with everyone. Let’s build a fun and supportive community together!* 😊
