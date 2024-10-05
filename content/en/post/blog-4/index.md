@@ -1,19 +1,18 @@
 ---
-title: "나만 이거 재밌게 보나요? 🙃"
-summary: "오느르공봉몽무게"
+title: "Am I the Only One Enjoying This? 🙃"
+summary: "On-neu-leu-gong-bong-mong-mu-ge" 
 date: 2024-09-13
 
 # Featured image
 image:
-  filename: "" # 이미지를 폴더에 넣고 파일명을 이곳에 추가하세요
-  caption: "" # 링크를 Unsplash 이미지 URL로 교체하세요
+  filename: "" # Add the image filename here after placing it in the folder
+  caption: "" # Replace with the Unsplash image URL
 
 authors:
   - admin
 
 ---
 
-## 솔직히 재밌다
+## Honestly, it's so fun
 
-중독성 넘넘 좋자너 
-
+It’s seriously addictive, don’t you think?
