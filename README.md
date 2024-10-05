@@ -48,5 +48,5 @@
 
 연락처:
 
-이메일: your.email@example.com
-전화번호: +82 10-1234-5678
+이메일: vnvndldl@naver.com
+전화번호: +82 10-4211-0034
