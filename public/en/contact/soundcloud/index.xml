@@ -6,11 +6,5 @@
       <atom:link href="http://localhost:1313/en/contact/soundcloud/index.xml" rel="self" type="application/rss+xml" />
     <description>🎧 Let&#39;s Meet on SoundCloud!</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/en/contact/soundcloud/featured.jpg</url>
-      <title>🎧 Let&#39;s Meet on SoundCloud!</title>
-      <link>http://localhost:1313/en/contact/soundcloud/</link>
-    </image>
-    
   </channel>
 </rss>

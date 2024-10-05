@@ -6,11 +6,5 @@
       <atom:link href="http://localhost:1313/ko/contact/index.xml" rel="self" type="application/rss+xml" />
     <description>온라인에서 만나요!!</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
-      <title>온라인에서 만나요!!</title>
-      <link>http://localhost:1313/ko/contact/</link>
-    </image>
-    
   </channel>
 </rss>

@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/ko/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <description>Firebase</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
-      <title>Firebase</title>
-      <link>http://localhost:1313/ko/tags/firebase/</link>
-    </image>
-    
     <item>
       <title>InSquare - 명합첩 어플</title>
       <link>http://localhost:1313/ko/project/insquare/</link>

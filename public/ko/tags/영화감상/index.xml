@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/ko/tags/%EC%98%81%ED%99%94%EA%B0%90%EC%83%81/index.xml" rel="self" type="application/rss+xml" />
     <description>영화감상</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
-      <title>영화감상</title>
-      <link>http://localhost:1313/ko/tags/%EC%98%81%ED%99%94%EA%B0%90%EC%83%81/</link>
-    </image>
-    
     <item>
       <title>Film</title>
       <link>http://localhost:1313/ko/dongari/film/</link>

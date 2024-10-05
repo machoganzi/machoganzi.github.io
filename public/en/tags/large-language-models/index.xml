@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/en/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
-      <title>Large Language Models</title>
-      <link>http://localhost:1313/en/tags/large-language-models/</link>
-    </image>
-    
     <item>
       <title>An example conference paper</title>
       <link>http://localhost:1313/en/planned/conference-paper/</link>

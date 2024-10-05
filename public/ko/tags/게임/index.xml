@@ -6,59 +6,5 @@
       <atom:link href="http://localhost:1313/ko/tags/%EA%B2%8C%EC%9E%84/index.xml" rel="self" type="application/rss+xml" />
     <description>게임</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
-      <title>게임</title>
-      <link>http://localhost:1313/ko/tags/%EA%B2%8C%EC%9E%84/</link>
-    </image>
-    
-    <item>
-      <title>🎮 Discord에서 만나요!</title>
-      <link>http://localhost:1313/ko/contact/discord/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/contact/discord/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./featured.jpg&#34; alt=&#34;featured image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h1 id=&#34;-안녕하세요-디스코드-친구들&#34;&gt;👋 안녕하세요, 디스코드 친구들!&lt;/h1&gt;
-&lt;p&gt;여러분을 제 Discord 서버에 초대합니다. 게임, 학습, 그리고 그 사이의 모든 것에 대해 이야기 나눌 수 있는 공간입니다.&lt;/p&gt;
-&lt;h2 id=&#34;-여기서-무엇을-할-수-있나요&#34;&gt;🌟 여기서 무엇을 할 수 있나요?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;🎮 최신 게임에 대해 토론하기&lt;/li&gt;
-&lt;li&gt;📚 학습 팁과 자료 공유하기&lt;/li&gt;
-&lt;li&gt;🤝 새로운 친구 사귀기&lt;/li&gt;
-&lt;li&gt;🧠 재미있는 퀴즈와 챌린지에 참여하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-언제든-연락주세요&#34;&gt;💬 언제든 연락주세요!&lt;/h2&gt;
-&lt;p&gt;게임이나 공부에 대해 이야기하고 싶으신가요? 아니면 그냥 수다 떨고 싶으신가요?
-제 Discord 서버에 들러주세요. 여러분을 환영합니다!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Discord 서버 링크:&lt;/strong&gt; 
-&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;혼자 가면 빨리 갈 수 있지만, 함께 가면 더 멀리 갈 수 있다.&amp;rdquo; - 아프리카 속담&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;!--more--&gt;
-&lt;p&gt;&lt;em&gt;PS: 서버 규칙을 지켜주시고 서로 존중하는 마음으로 대화해주세요. 함께 즐거운 커뮤니티를 만들어가요!&lt;/em&gt; 😊&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
