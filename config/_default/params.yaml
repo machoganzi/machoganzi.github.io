@@ -27,7 +27,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "😎김선강😎"
-      images: icon.png
+      filename: 'logo.jpg'
 
 # Site footer
 footer:
