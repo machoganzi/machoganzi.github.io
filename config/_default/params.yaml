@@ -1,7 +1,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
   favicon: icon.png  # static 폴더 내의 파비콘 파일 경로
 # SEO
 marketing:
