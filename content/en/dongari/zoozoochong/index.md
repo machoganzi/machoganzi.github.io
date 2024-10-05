@@ -1,6 +1,6 @@
 ---
-title: "주주총회"
-summary: "칵테일 문화를 탐구하고 즐기는 동아리"
+title: "General Meeting of Shareholders"
+summary: "A club for exploring and enjoying cocktail culture"
 date: 2024-03-01
 
 image:
@@ -8,16 +8,16 @@ image:
   focal_point: "Center"
 
 tags:
-  - 칵테일
-  - 음료
-  - 바텐딩
+  - Cocktail
+  - Beverage
+  - Bartending
 ---
 
-주주총회는 칵테일 제조와 음료 문화에 관심 있는 학생들의 모임입니다. 우리는 다양한 칵테일 레시피를 연구하고, 새로운 맛을 창조하며, 책임감 있는 음주 문화를 장려합니다.
+The General Meeting of Shareholders is a group for students interested in cocktail making and beverage culture. We explore various cocktail recipes, create new flavors, and promote responsible drinking habits.
 
-## 주요 활동
-- 월간 칵테일 워크샵
-- 계절별 시그니처 칵테일 개발
-- 비알콜 칵테일 챌린지
+## Main Activities
+- Monthly cocktail workshops
+- Seasonal signature cocktail development
+- Non-alcoholic cocktail challenge
 
-술을 마시지 않아도 괜찮습니다! 우리는 맛있는 음료를 만들고 즐기는 것에 초점을 맞추고 있습니다. 함께 창의적인 음료의 세계를 탐험해보세요.
+It’s perfectly fine if you don’t drink alcohol! Our focus is on creating and enjoying delicious beverages. Join us as we explore the creative world of drinks.
