@@ -1,29 +1,29 @@
 ---
-# 홈페이지 제목을 비워두면 사이트 제목을 사용
+# If the homepage title is empty, the site title will be used
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # 기본 섹션 간격 설정
+  # Default section spacing
   spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
-      # 표시할 사용자 프로필 선택 ( `content/authors/` 내 폴더 이름)
+      # Select the user profile to display (folder name inside `content/authors/`)
       username: admin
       text: ""
-      # 바이오그래피 아래에 콜투액션 버튼을 표시할까요? (선택 사항)
+      # Display a call-to-action button below the biography? (optional)
       button:
-        text: 이력서 다운로드
+        text: Download Resume
         url: /uploads/resume.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
-          # `assets/media/`에 이미지 배경 추가
+          # Add an image background in `assets/media/`
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -33,16 +33,16 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 나의 관심사 📚'
+      title: '📚 My Interests 📚'
       subtitle: ''
       text: |-
-        저는 웹 서비스 디자인과 데이터베이스에 대한 연구를 진행하고 있습니다 현재 집중하고 있습니다.  
-        이를 바탕으로 여러 가지 프로젝트를 기획하고 있으며, 협업을 통해 더 나은 결과물을 만들어내고 싶습니다.  
-        협업에 관심이 있으시다면 언제든지 연락 주세요! 😃
+        I am currently conducting research on web service design and databases.  
+        Based on this, I am planning several projects and would like to collaborate to produce even better results.  
+        Feel free to contact me if you're interested in collaborating! 😃
     design:
       columns: '1'
 
-  # 슬라이더 블록 (shortcode 사용)
+  # Slider block (using shortcode)
   - block: custom_slider1
     content:
       dir: "" 
@@ -54,8 +54,8 @@ sections:
       option: "" 
       zoomable: 
       slides:
-        - title: "프로젝트 1"
-          content: "웹 서비스 개발 프로젝트"
+        - title: "Project 1"
+          content: "Web service development project"
           align: "center"
           background:
             image:
@@ -64,8 +64,8 @@ sections:
                 brightness: 1.0
             position: "center"
             color: "#fff"
-        - title: "프로젝트 2"
-          content: "모바일 앱 개발 프로젝트"
+        - title: "Project 2"
+          content: "Mobile app development project"
           align: "center"
           background:
             image:
@@ -83,7 +83,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 📅 향후 계획 📅
+      title: 📅 Future Plans 📅
       filters:
         folders:
           - planned
@@ -95,7 +95,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 💫 동아리 활동 💫
+      title: 💫 Club Activities 💫
       filters:
         folders:
           - dongari
@@ -106,9 +106,9 @@ sections:
   - block: collection
     id: blog
     content:
-      title: 😁 나의 블로그 😁
-      subtitle: '여러 가지 흥미로운 주제에 대한 글을 작성합니다.'
-      text: '프로그래밍, 웹 서비스 디자인, 그리고 개인적인 관심사에 대해 정리하고 공유하는 공간입니다.'
+      title: 😁 My Blog 😁
+      subtitle: 'I write about various interesting topics.'
+      text: 'This is a space where I organize and share my thoughts on programming, web service design, and personal interests.'
       page_type: post
       count: 5
       filters:
@@ -129,13 +129,13 @@ sections:
   - block: cta-card
     demo: false
     content:
-      title: 🚀 나의 프로젝트를 확인해 보세요
+      title: 🚀 Check Out My Projects
       text: |-
-        지금까지 제가 작업한 다양한 프로젝트에 관심이 있으신가요?  
-        웹 개발, 디자인, 학문적 프로젝트 등 여러 분야에서의 작업물을 포트폴리오에서 확인하실 수 있습니다.  
-        더 알고 싶다면 언제든지 저에게 연락해 주세요!
+        Interested in the various projects I've worked on?  
+        From web development and design to academic projects, you can find my work in my portfolio.  
+        Feel free to contact me if you'd like to know more!
       button:
-        text: 프로젝트 보기
+        text: View Projects
         url: projects/
     design:
       card:
