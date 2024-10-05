@@ -1,5 +1,5 @@
 ---
-title: 온라인에서 만나요!!
+title: Let's Meet Online!!
 
 # Listing view
 view: card
