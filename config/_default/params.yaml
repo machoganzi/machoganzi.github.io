@@ -13,9 +13,9 @@ marketing:
     twitter: 'GetResearchDev'
     keywords: ['전북대', '김선강', '학생', '학술', '연구', '컴퓨터공학부', '컴퓨터인공지능학부', 'JBNU', 'Kim Sun Gang', '전북대학교', '컴퓨터']
   analytics:
-    google_analytics: '' # Google Analytics 추적 ID를 여기에 추가하세요
+    google_analytics: 'G-993QWGF39F' # Google Analytics 추적 ID를 여기에 추가하세요
   verification:
-    google: '' # Google Search Console 인증 코드를 여기에 추가하세요
+    google: 'google-site-verification=ca5rkt7mCBsSwVSSzzh14zLVmfJkFFYo5-_2bGeHCHQ' # Google Search Console 인증 코드를 여기에 추가하세요
 
 # Site header
 header:
