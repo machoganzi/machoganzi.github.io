@@ -3,10 +3,9 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 design:
-  # Default section spacing
   spacing: '5rem'
   background:
-        color: black
+    color: black
 sections:
   - block: collection
     content:
@@ -30,3 +29,5 @@ sections:
           position: center
           parallax: false
 ---
+
+{{< backgroundgif "/images/wallpaper.gif" >}}
