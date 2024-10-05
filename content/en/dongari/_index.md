@@ -1,5 +1,5 @@
 ---
-title: 동아리 
+title: Club
 cms_exclude: true
 #url: talk
 
