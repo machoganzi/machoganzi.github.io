@@ -17,7 +17,7 @@ marketing:
     naver_analytics: '' # 네이버 애널리틱스 추적 ID (사용할 경우)
   verification:
     google: 'ca5rkt7mCBsSwVSSzzh14zLVmfJkFFYo5-_2bGeHCHQ' # Google Search Console 인증 코드
-    naver: '2bb84b9ab5970606e1f79882761c91b39612ed92'
+    naver: '2bb84b9ab5970606e1f79882761c91b39612ed92' # 네이버 웹마스터 도구 인증 코드
 
 # Site header
 header:
