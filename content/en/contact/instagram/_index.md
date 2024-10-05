@@ -1,36 +1,36 @@
 ---
 
-title: 📸 Instagram에서 만나요!  
+title: 📸 Join Me on Instagram!  
 date: 2024-03-29  
 
 ---
 ![featured image](./featured.jpg)
-# 👋 안녕하세요, 인스타그램 친구들!
+# 👋 Hello, Instagram Friends!
 
-여러분을 제 Instagram 프로필에 초대합니다. 게임 이야기, 학습 팁, 일상 공유까지 다양한 주제로 소통할 수 있는 공간입니다.
+I’m inviting you to follow my Instagram profile, where we can connect on a variety of topics—gaming, study tips, and daily life moments.
 
 <!--more-->
 
-## 🌟 인스타그램에서 무엇을 할 수 있나요?
+## 🌟 What Can You Do on Instagram?
 
-- 📸 일상 사진과 이야기 공유하기  
-- 🎮 최신 게임 관련 이야기 나누기  
-- 📚 공부와 자기계발 팁 얻기  
-- 🤝 새로운 친구 만나기
+- 📸 Share everyday photos and stories  
+- 🎮 Talk about the latest games  
+- 📚 Get study and self-improvement tips  
+- 🤝 Meet new friends  
 
-## 💬 언제든 편하게 메시지 주세요!
+## 💬 Feel Free to DM Me Anytime!
 
-게임 이야기든, 공부든, 혹은 그냥 가벼운 일상 대화라도 언제든지 환영합니다.  
-여러분과의 소통을 기다리고 있어요!
+Whether it's about games, studies, or just a casual conversation, feel free to reach out!  
+I’m looking forward to connecting with you.
 
-**Instagram 프로필 링크:** [여기를 클릭하세요](https://www.instagram.com/ssun_gang/)
+**Instagram Profile Link:** [Click here](https://www.instagram.com/ssun_gang/)
 
 ---
 
-> "하루하루는 우리의 인생을 구성하는 페이지들이다." - 불명
+> "Each day is a new page that makes up the chapters of our life." - Unknown
 
 <!--more-->
 
-*PS: 존중과 배려를 바탕으로 서로의 이야기를 나누며 즐거운 커뮤니티를 만들어가요!* 😊
+*PS: Let’s share our stories with respect and understanding, and create a joyful community together!* 😊
 
 ---
