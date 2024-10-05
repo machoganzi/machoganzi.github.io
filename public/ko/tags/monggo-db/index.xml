@@ -17,32 +17,34 @@
       <link>http://localhost:1313/ko/planned/conference-paper/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/planned/conference-paper/</guid>
-      <description>&lt;h2 id=&#34;major-study-plan&#34;&gt;Major study plan&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;1. Learning the Basics (6 months)&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;데이터베이스-관리자-공부-플랜&#34;&gt;데이터베이스 관리자 공부 플랜&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 기본 개념 학습 (6개월)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Take online courses on web service design and development (e.g., Coursera, Udemy)&lt;/li&gt;
-&lt;li&gt;Read books like &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;데이터베이스 관리 시스템(DBMS)과 데이터베이스 개념을 제대로 배우기 위해 Coursera나 Udemy 같은 플랫폼에서 온라인 강의를 들을 계획입니다.&lt;/li&gt;
+&lt;li&gt;또한, *&amp;ldquo;Database System Concepts&amp;rdquo;*나 &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; 같은 책을 읽어 기초 이론을 탄탄히 다질 겁니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Improving Programming Skills (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 프로그래밍 기술 향상 (지속적인 학습)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Practice coding regularly using languages like JavaScript, Python, and SQL&lt;/li&gt;
-&lt;li&gt;Work on weekly coding challenges (e.g., LeetCode, Codewars) to sharpen problem-solving skills&lt;/li&gt;
+&lt;li&gt;SQL은 물론, Python과 JavaScript 같은 프로그래밍 언어를 꾸준히 연습할 예정입니다.&lt;/li&gt;
+&lt;li&gt;LeetCode나 Codewars에서 코딩 문제를 풀며 문제 해결 능력을 키울 생각입니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Working on Projects (1 year)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 프로젝트 수행 (1년)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Start a personal project, like building a simple e-commerce site or a blog platform&lt;/li&gt;
-&lt;li&gt;Contribute to open-source projects related to web development&lt;/li&gt;
+&lt;li&gt;직접 간단한 데이터베이스 기반 애플리케이션을 만들고 싶은데, 예를 들면 개인 쇼핑몰이나 블로그 플랫폼 같은 프로젝트를 시작할 계획입니다.&lt;/li&gt;
+&lt;li&gt;GitHub에서 오픈 소스 프로젝트에 참여하면서 실전 경험도 쌓을 예정입니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;4. Networking and Joining Communities (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 커뮤니티 참여 및 네트워킹 (지속적인 활동)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Attend web development meetups or join online communities (e.g., Reddit, Stack Overflow)&lt;/li&gt;
-&lt;li&gt;Participate in web development conferences or webinars to stay updated on trends&lt;/li&gt;
+&lt;li&gt;데이터베이스 관련 온라인 커뮤니티(예: Reddit, Stack Overflow)에 적극적으로 참여하고, 질문과 답변을 통해 지식을 넓혀갈 생각입니다.&lt;/li&gt;
+&lt;li&gt;또, 데이터베이스 컨퍼런스나 웨비나에도 참가해 최신 기술 트렌드에 대해 배울 예정입니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;5. Research and Writing (Final 6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 연구 및 글쓰기 (마지막 6개월)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Pick a topic that interests you, like scalable web service architecture&lt;/li&gt;
-&lt;li&gt;Conduct research and document your findings in a blog or small report&lt;/li&gt;
+&lt;li&gt;데이터베이스 관리와 관련된 흥미로운 주제를 정해서 연구할 계획입니다. 예를 들어, 확장 가능한 데이터베이스 아키텍처 같은 주제가 좋을 것 같습니다.&lt;/li&gt;
+&lt;li&gt;연구한 내용을 블로그에 정리하거나 소규모 보고서를 작성해서 내 지식을 공유하고 정리해볼 겁니다.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;이 계획을 통해 데이터베이스 관리자가 되기 위한 기술과 경험을 하나씩 쌓아갈 예정입니다! 꾸준히 노력해서 목표를 이룰 생각입니다.&lt;/p&gt;
 </description>
     </item>
     

@@ -417,16 +417,6 @@
     <loc>http://localhost:1313/en/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/publication_types/article-journal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/article-journal/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/publication_types/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
@@ -445,20 +435,20 @@
     <loc>http://localhost:1313/en/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/tags/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/source-themes/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/planned/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/planned/conference-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/planned/conference-paper/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/large-language-models/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
