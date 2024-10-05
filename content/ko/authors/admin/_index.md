@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: College student 
+role: 학부생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Computer Engineering Department
+  - name: 컴퓨터공학부
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Social network links
@@ -46,14 +46,14 @@ profiles:
 
 
 interests:
-  - Database
-  - Web Service Design
-  - Hip-Hop Music
+  - 데이터베이스
+  - 웹 서비스 디자인 
+  - 흑인 음악
 
 #교육 내용 수정 예정
 education:
-  - area: Computer engineering undergraduate
-    institution: JBNU
+  - area: 컴퓨터공학부 학부생
+    institution: 전북대학교
     date_start: 2020-03-01
     date_end: 2025-03-01
     summary: |
@@ -117,9 +117,9 @@ skills:
         icon: shirt-solid
 
 languages:
-  - name: KR
+  - name: 한국어
     percent: 75
-  - name: EN
+  - name: 영어
     percent: 25
 
 
@@ -138,6 +138,11 @@ awards:
   
 ---
 
-## About Me
+## 🤗 저를 소개합니다 🤗
 
-Kim Sun-kang is an undergraduate student in the Department of Computer Engineering at Chonbuk National University. His interests are in databases, and mobile programming.
+안녕하세요! 저는 전북대학교 컴퓨터공학과에서 공부 중인 김선강입니다.  
+데이터베이스와 모바일 프로그래밍에 대한 열정을 가지고, 새로운 기술을 탐구하고 혁신적인 솔루션을 만드는 것을 좋아합니다. 
+
+데이터가 세상의 중심이 되는 시대, 저는 데이터베이스 설계와 관리에 대한 깊은 이해를 통해 **효율적이고 안정적인 시스템**을 구축하는 데 목표를 두고 있습니다. 또한, **모바일 프로그래밍**을 통해 언제 어디서나 사용자에게 최고의 경험을 제공할 수 있는 애플리케이션을 개발하는 데 흥미를 느낍니다. 
+
+미래에는 이러한 두 가지 분야를 결합하여 **혁신적인 데이터 중심의 모바일 서비스**를 만들고, 더 나은 세상을 위한 기술 발전에 기여하고 싶습니다. 끊임없이 배우고 도전하며, 성장해 나가는 과정을 즐기고 있습니다!

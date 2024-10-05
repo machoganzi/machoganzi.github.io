@@ -25,7 +25,7 @@ sections:
         ### Office Hours:
         - Monday to Friday, 9 AM - 5 PM
 
-        ### Phone:
+        ### ☎️ Phone:
         - +82 10-4211-0034
 
         If you want to meet in person, make sure to call ahead to schedule a time.
