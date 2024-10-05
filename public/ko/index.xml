@@ -13,37 +13,6 @@
     </image>
     
     <item>
-      <title>Chonbuk National University Academic Culture and Sports Festival</title>
-      <link>http://localhost:1313/ko/event/example/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ko/event/example/</guid>
-      <description>&lt;!-- 
-
-
-
-
-  
-    
-  
-
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Web Service Design: Personal Learning</title>
       <link>http://localhost:1313/ko/planned/preprint/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
@@ -141,6 +110,46 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
 &lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;건지대동제&#34;&gt;건지대동제&lt;/h2&gt;
 &lt;p&gt;5월 8일부터 5월 10일 건지대동제 시작!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WHO</title>
+      <link>http://localhost:1313/ko/event/who/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/event/who/</guid>
+      <description>&lt;p&gt;WHO는 우리 과 학생들 간의 유대감을 강화하고 즐거운 대학 생활을 만들어가는 친목 동아리입니다. 학년과 전공에 관계없이 모든 학생들이 참여하여 다양한 활동을 통해 서로를 이해하고 지원합니다.&lt;/p&gt;
+&lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;월간 친목 모임&lt;/li&gt;
+&lt;li&gt;학기별 MT 및 워크샵&lt;/li&gt;
+&lt;li&gt;선후배 멘토링 프로그램&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;새로운 친구를 만들고, 선배들로부터 조언을 얻고, 대학 생활의 즐거운 추억을 만들고 싶다면 WHO와 함께하세요! 모든 과 학생들을 환영합니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zwagger</title>
+      <link>http://localhost:1313/ko/event/zwagger/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/event/zwagger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>주주총회</title>
+      <link>http://localhost:1313/ko/event/zoozoochong/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/event/zoozoochong/</guid>
+      <description>&lt;p&gt;주주총회는 칵테일 제조와 음료 문화에 관심 있는 학생들의 모임입니다. 우리는 다양한 칵테일 레시피를 연구하고, 새로운 맛을 창조하며, 책임감 있는 음주 문화를 장려합니다.&lt;/p&gt;
+&lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;월간 칵테일 워크샵&lt;/li&gt;
+&lt;li&gt;계절별 시그니처 칵테일 개발&lt;/li&gt;
+&lt;li&gt;비알콜 칵테일 챌린지&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;술을 마시지 않아도 괜찮습니다! 우리는 맛있는 음료를 만들고 즐기는 것에 초점을 맞추고 있습니다. 함께 창의적인 음료의 세계를 탐험해보세요.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>음악 | 전북대 김선강</title>
+    <link>http://localhost:1313/ko/tags/%EC%9D%8C%EC%95%85/</link>
+      <atom:link href="http://localhost:1313/ko/tags/%EC%9D%8C%EC%95%85/index.xml" rel="self" type="application/rss+xml" />
+    <description>음악</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>음악</title>
+      <link>http://localhost:1313/ko/tags/%EC%9D%8C%EC%95%85/</link>
+    </image>
+    
+    <item>
+      <title>Zwagger</title>
+      <link>http://localhost:1313/ko/event/zwagger/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/event/zwagger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

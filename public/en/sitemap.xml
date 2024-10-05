@@ -500,16 +500,6 @@
   </url><url>
     <loc>http://localhost:1313/en/event/example/</loc>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/event/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/event/example/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/event/</loc>
     <changefreq>weekly</changefreq>

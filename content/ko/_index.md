@@ -89,13 +89,16 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 💫 동아리 💫
+      count: 10
       filters:
         folders:
           - event
+        kinds:
+          - page
     design:
-      view: article-grid
-      columns: 1
+      view: custom_grid
+      columns: "1"
 
   - block: collection
     id: blog

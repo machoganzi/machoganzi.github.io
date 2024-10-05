@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>바텐딩 | 전북대 김선강</title>
+    <link>http://localhost:1313/ko/tags/%EB%B0%94%ED%85%90%EB%94%A9/</link>
+      <atom:link href="http://localhost:1313/ko/tags/%EB%B0%94%ED%85%90%EB%94%A9/index.xml" rel="self" type="application/rss+xml" />
+    <description>바텐딩</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>바텐딩</title>
+      <link>http://localhost:1313/ko/tags/%EB%B0%94%ED%85%90%EB%94%A9/</link>
+    </image>
+    
+    <item>
+      <title>주주총회</title>
+      <link>http://localhost:1313/ko/event/zoozoochong/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ko/event/zoozoochong/</guid>
+      <description>&lt;p&gt;주주총회는 칵테일 제조와 음료 문화에 관심 있는 학생들의 모임입니다. 우리는 다양한 칵테일 레시피를 연구하고, 새로운 맛을 창조하며, 책임감 있는 음주 문화를 장려합니다.&lt;/p&gt;
+&lt;h2 id=&#34;주요-활동&#34;&gt;주요 활동&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;월간 칵테일 워크샵&lt;/li&gt;
+&lt;li&gt;계절별 시그니처 칵테일 개발&lt;/li&gt;
+&lt;li&gt;비알콜 칵테일 챌린지&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;술을 마시지 않아도 괜찮습니다! 우리는 맛있는 음료를 만들고 즐기는 것에 초점을 맞추고 있습니다. 함께 창의적인 음료의 세계를 탐험해보세요.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

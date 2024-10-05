@@ -55,6 +55,3 @@ features:
 
 contact:
   view: card
-
-event:
-  view: card
