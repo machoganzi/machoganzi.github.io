@@ -1,5 +1,5 @@
 ---
-title: "InSquare - Business card application"
+title: "InSquare - 명합첩 어플"
 date: 2023-12-01
 type: Projects
 
@@ -13,7 +13,7 @@ tags:
   - Firebase
 ---
 
-Mobile business card book with convenience and a variety of features
+편리하고 다양한 기능을 갖춘 모바일 명함집
 
 <!--more-->
 

@@ -13,19 +13,19 @@
     </image>
     
     <item>
-      <title>Nyamjjupnyamjjup-Restaurant service web page</title>
+      <title>냠쩝냠쩝 - 맛집 서비스 제공 웹 페이지</title>
       <link>http://localhost:1313/ko/project/restaurant_service/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/project/restaurant_service/</guid>
-      <description>&lt;p&gt;Creating web pages for providing restaurant services&lt;/p&gt;</description>
+      <description>&lt;p&gt;맛집 서비스 제공을 위한 웹 페이지 만들기&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>InSquare - Business card application</title>
+      <title>InSquare - 명합첩 어플</title>
       <link>http://localhost:1313/ko/project/insquare/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/project/insquare/</guid>
-      <description>&lt;p&gt;Mobile business card book with convenience and a variety of features&lt;/p&gt;
+      <description>&lt;p&gt;편리하고 다양한 기능을 갖춘 모바일 명함집&lt;/p&gt;
 &lt;video width=&#34;1920&#34; height=&#34;1080&#34; controls&gt;
   &lt;source src=&#34;http://localhost:1313/uploads/insquare.mp4&#34; type=&#34;video/mp4&#34;&gt;
   Your browser does not support the video tag.
@@ -56,19 +56,19 @@
     </item>
     
     <item>
-      <title>Zwagger Show - CAME FROM HOOD</title>
+      <title>즈웨거쇼 - CAME FROM HOOD</title>
       <link>http://localhost:1313/ko/project/hiphop/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/project/hiphop/</guid>
-      <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
+      <description>&lt;p&gt;직접 작사 작곡 프로듀싱한 공연!!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Linux-Locker server</title>
+      <title>리눅스 사물함 서버</title>
       <link>http://localhost:1313/ko/project/locker_server/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/project/locker_server/</guid>
-      <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
+      <description>&lt;p&gt;Linux, 패킷 기반 락커 서버 시스템 구현&lt;/p&gt;</description>
     </item>
     
   </channel>

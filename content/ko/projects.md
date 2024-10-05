@@ -10,7 +10,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: 저의 프로젝트를 구경하세요! 
       text: 
       filters:
         folders:

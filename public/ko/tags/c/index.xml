@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Linux-Locker server</title>
+      <title>리눅스 사물함 서버</title>
       <link>http://localhost:1313/ko/project/locker_server/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ko/project/locker_server/</guid>
-      <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
+      <description>&lt;p&gt;Linux, 패킷 기반 락커 서버 시스템 구현&lt;/p&gt;</description>
     </item>
     
   </channel>
