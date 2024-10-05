@@ -5,7 +5,7 @@
     <link>http://localhost:1313/en/event/</link>
       <atom:link href="http://localhost:1313/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
       <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,34 +13,38 @@
     </image>
     
     <item>
-      <title>Chonbuk National University Academic Culture and Sports Festival</title>
+      <title></title>
       <link>http://localhost:1313/en/event/example/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/event/example/</guid>
-      <description>&lt;!-- 
+      <description>&lt;div style=&#34;text-align: center;&#34;&gt;
+&lt;h1 id=&#34;chonbuk-national-university-academic-culture-and-sports-festival&#34;&gt;Chonbuk National University Academic Culture and Sports Festival&lt;/h1&gt;
+&lt;p&gt;
 
 
 
 
-  
-    
-  
 
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
 
-Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
-</description>
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/api/placeholder/800/400&#34; alt=&#34;Event Image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 8, 2024&lt;br&gt;
+&lt;strong&gt;Event:&lt;/strong&gt; Song Festival&lt;br&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Chonbuk National University&lt;/p&gt;
+&lt;p&gt;Participation in the Academic Culture and Sports Festival Song Festival&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
