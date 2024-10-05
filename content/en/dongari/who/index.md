@@ -1,6 +1,6 @@
 ---
 title: "WHO"
-summary: "컴퓨터 인공지능 기술을 연구하고 공유하는 학술 동아리"
+summary: "An academic club for researching and sharing computer AI technology"
 date: 2024-03-01
 
 image:
@@ -8,16 +8,16 @@ image:
   focal_point: "Center"
 
 tags:
-  - 인공지능
-  - 머신러닝
-  - 컴퓨터과학
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Science
 ---
 
-WHO는 컴퓨터 인공지능 분야에 관심이 있는 학생들이 모여 함께 연구하고 토론하는 학술 동아리입니다. 인공지능 기술에 대한 깊은 관심을 가진 누구나 참여할 수 있으며, 다양한 연구 및 프로젝트 활동을 통해 학문적 성과와 실무 경험을 쌓을 수 있습니다.
+WHO is an academic club where students interested in computer AI gather to research and discuss together. Anyone with a deep interest in AI technology is welcome to join, and through various research and project activities, members can achieve academic results and gain practical experience.
 
-## 주요 활동
-- 주간 스터디 및 세미나
-- 인공지능 프로젝트 진행
-- 관련 학회 및 경진대회 참가
+## Main Activities
+- Weekly study sessions and seminars
+- AI project development
+- Participation in related conferences and competitions
 
-인공지능 기술을 심도 있게 연구하고, 프로젝트를 통해 실질적인 경험을 쌓고 싶다면 WHO 동아리와 함께하세요! 인공지능과 컴퓨터과학에 관심 있는 모든 학생들을 환영합니다.
+If you want to delve deeper into AI technology and gain hands-on experience through projects, join the WHO club! We welcome all students interested in AI and computer science.
