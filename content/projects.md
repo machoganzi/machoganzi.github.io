@@ -6,7 +6,9 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
-
+  background:
+    video:
+      filename: background.mp4
 # Page sections
 sections:
   - block: collection
