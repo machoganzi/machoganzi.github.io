@@ -1,5 +1,5 @@
 ---
-title: 즈웨거쇼 - CAME FROM HOOD
+title: Zwagger Show - CAME FROM HOOD
 date: 2023-10-31
 external_link: https://soundcloud.com/hoodkidwhowarftheworld/sets/
 tags:
@@ -8,5 +8,5 @@ tags:
   - DRILL
 ---
 
-직접 작사 작곡 프로듀싱한 공연!!
+A live performance with lyrics, composition, and production all done by myself!!
 <!--more-->
