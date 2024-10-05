@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/ko/tags/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/index.xml" rel="self" type="application/rss+xml" />
     <description>머신러닝</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>머신러닝</title>
+      <link>http://localhost:1313/ko/tags/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/</link>
+    </image>
+    
     <item>
       <title>WHO</title>
       <link>http://localhost:1313/ko/dongari/who/</link>

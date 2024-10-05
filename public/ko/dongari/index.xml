@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/ko/dongari/index.xml" rel="self" type="application/rss+xml" />
     <description>동아리</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>동아리</title>
+      <link>http://localhost:1313/ko/dongari/</link>
+    </image>
+    
     <item>
       <title>Zwagger</title>
       <link>http://localhost:1313/ko/dongari/zwagger/</link>

@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/ko/index.xml" rel="self" type="application/rss+xml" />
     <description>전북대 김선강</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>전북대 김선강</title>
+      <link>http://localhost:1313/ko/</link>
+    </image>
+    
     <item>
       <title>Zwagger</title>
       <link>http://localhost:1313/ko/dongari/zwagger/</link>

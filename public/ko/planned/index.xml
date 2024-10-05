@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/ko/planned/index.xml" rel="self" type="application/rss+xml" />
     <description>planned</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>planned</title>
+      <link>http://localhost:1313/ko/planned/</link>
+    </image>
+    
     <item>
       <title>나만의 요리 연구! 🍕</title>
       <link>http://localhost:1313/ko/planned/journal-article/</link>

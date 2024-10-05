@@ -6,6 +6,12 @@
       <atom:link href="http://localhost:1313/ko/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ko-kr</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/ko/project/</link>
+    </image>
+    
     <item>
       <title>냠쩝냠쩝 - 맛집 서비스 제공 웹 페이지</title>
       <link>http://localhost:1313/ko/project/restaurant_service/</link>
