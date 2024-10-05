@@ -1,5 +1,5 @@
 ---
-title: "InSquare - 명합첩 어플"
+title: "InSquare - Business Card Holder App"
 date: 2023-12-01
 type: Projects
 
@@ -13,7 +13,7 @@ tags:
   - Firebase
 ---
 
-편리하고 다양한 기능을 갖춘 모바일 명함집
+A mobile business card holder with convenient and diverse features.
 
 <!--more-->
 
@@ -22,7 +22,7 @@ tags:
   Your browser does not support the video tag.
 </video>
 
-<!-- 세련된 검은색 버튼 추가 -->
+<!-- Sleek black button -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://github.com/machoganzi/project_insquare" target="_blank" style="
     display: inline-block; 
@@ -35,11 +35,11 @@ tags:
     font-weight: bold;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s ease, transform 0.3s ease;">
-    흥미로우시다면 여길 클릭 하세요!
+    Click here if you're interested!
   </a>
 </div>
 
-<!-- Hover 효과 추가 -->
+<!-- Add hover effect -->
 <style>
   a:hover {
     background-color: #333;
