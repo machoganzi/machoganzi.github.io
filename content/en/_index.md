@@ -43,7 +43,7 @@ sections:
       columns: '1'
 
   # Slider block (using shortcode)
-  - block: custom_slider1
+  - block: custom_slider
     content:
       dir: "" 
       height: "" 
