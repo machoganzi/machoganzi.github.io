@@ -1,29 +1,29 @@
 ---
-# Leave the homepage title empty to use the site title
+# 홈페이지 제목을 비워두면 사이트 제목을 사용
 title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
+  # 기본 섹션 간격 설정
   spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # 표시할 사용자 프로필 선택 ( `content/authors/` 내 폴더 이름)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
+      # 바이오그래피 아래에 콜투액션 버튼을 표시할까요? (선택 사항)
       button:
-        text: Download CV
+        text: 이력서 다운로드
         url: /uploads/resume.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
+          # `assets/media/`에 이미지 배경 추가
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -33,21 +33,17 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 나의 관심사 📚'
       subtitle: ''
       text: |-
-        
-        I am researching and studying web service design and database.
-
-        We are planning various projects using this.
-
-        Please contact me for a collaboration 😃
-        
+        저는 웹 서비스 디자인과 데이터베이스에 대한 연구를 진행하고 있습니다 현재 집중하고 있습니다.  
+        이를 바탕으로 여러 가지 프로젝트를 기획하고 있으며, 협업을 통해 더 나은 결과물을 만들어내고 싶습니다.  
+        협업에 관심이 있으시다면 언제든지 연락 주세요! 😃
     design:
       columns: '1'
 
   # 슬라이더 블록 (shortcode 사용)
-  - block: custom_slider
+  - block: custom_slider1
     content:
       dir: "" 
       height: "" 
@@ -58,56 +54,63 @@ sections:
       option: "" 
       zoomable: 
       slides:
-        - title: ""
-          content: ""
-          align: ""
+        - title: "프로젝트 1"
+          content: "웹 서비스 개발 프로젝트"
+          align: "center"
           background:
             image:
-              filename: ""
+              filename: "project1.png"
               filters:
-                brightness: 
-            position: ""
-            color: ""
+                brightness: 1.0
+            position: "center"
+            color: "#fff"
+        - title: "프로젝트 2"
+          content: "모바일 앱 개발 프로젝트"
+          align: "center"
+          background:
+            image:
+              filename: "project2.png"
+              filters:
+                brightness: 1.0
+            position: "center"
+            color: "#fff"
     design:
-      slide_height: ""
-      slide_width: ""
-      loop: 
-      interval: 
+      slide_height: "500px"
+      slide_width: "100%"
+      loop: true
+      interval: 5000
 
   - block: collection
     id: papers
     content:
-      title: 📅 Planned Move 📅
+      title: 📅 향후 계획 📅
       filters:
         folders:
           - planned
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 💫 동아리 활동 💫
       filters:
         folders:
-          - event
+          - dongari
     design:
       view: article-grid
-      columns: 1
-
+      columns: 4
+     
   - block: collection
     id: blog
     content:
-      title: 😁 My Blog 😁
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
+      title: 😁 나의 블로그 😁
+      subtitle: '여러 가지 흥미로운 주제에 대한 글을 작성합니다.'
+      text: '프로그래밍, 웹 서비스 디자인, 그리고 개인적인 관심사에 대해 정리하고 공유하는 공간입니다.'
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria
       filters:
         author: ""
         category: ""
@@ -116,32 +119,26 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: date-title-summary
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
 
   - block: cta-card
-    demo: false # 데모 모드가 아닌 실제 사이트에 표시
+    demo: false
     content:
-      title: 🚀 Explore My Projects
+      title: 🚀 나의 프로젝트를 확인해 보세요
       text: |-
-        Interested in seeing the projects I have worked on over the years? Feel free to check out my portfolio of various web development, design, and academic projects.
-
-        If you'd like to know more, don't hesitate to reach out to me!
-
+        지금까지 제가 작업한 다양한 프로젝트에 관심이 있으신가요?  
+        웹 개발, 디자인, 학문적 프로젝트 등 여러 분야에서의 작업물을 포트폴리오에서 확인하실 수 있습니다.  
+        더 알고 싶다면 언제든지 저에게 연락해 주세요!
       button:
-        text: View Projects
-        url: projects/  # 프로젝트 목록 페이지로 링크
+        text: 프로젝트 보기
+        url: projects/
     design:
       card:
         css_class: ""
-        css_style: ""  # 카드 배경 및 텍스트 스타일 설정
-
+        css_style: ""
 ---

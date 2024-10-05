@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 동아리 
 cms_exclude: true
 #url: talk
 

@@ -1,6 +1,6 @@
 ---
-title: "🎆 JBNU Daedongje Festival"
-summary: "the largest festival in JBNU"
+title: "🎆 전북대학교 대동제"
+summary: "전북대 최대 규모의 축제"
 date: 2024-05-08
 
 # Featured image
@@ -23,8 +23,8 @@ authors:
 ![Unsplash Image](https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)  
 *Image Credit: [Unsplash](https://unsplash.com)*
 
-## The Grand Prince of Guernsey
+## 건지대동제
 
-From May 8th to May 10th, the Guernsey Dongje begins!!
+5월 8일부터 5월 10일 건지대동제 시작!!
 
 

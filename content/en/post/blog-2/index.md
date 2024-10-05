@@ -1,7 +1,7 @@
 ---
-title: "🚝A trip to Busan"
-summary: "Kim Sun-kang's travelogue to Busan"
-date: 2024-05-08
+title: "우당탕탕 웹서비스 설계 과제 🤣🤣🤣"
+summary: "과제는 미리미리 할 것."
+date: 2024-10-05
 
 # Featured image
 image:
@@ -13,18 +13,17 @@ authors:
 
 ---
 
-Welcome 👋
+환영합니다 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
 이 블로그는 [Hugo](https://gohugo.io)와 [Hugo Blox](https://hugoblox.com)를 사용하여 생성되었습니다.
 
 
-![Unsplash Image](https://images.unsplash.com/photo-1646518341386-76482df80e8b?q=80&w=2672&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)  
+![Unsplash Image](https://images.unsplash.com/photo-1530210124550-912dc1381cb8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)  
 *Image Credit: [Unsplash](https://unsplash.com)*
 
-## Trip to Busan
+## 밤샘 웹서비스 설계 과제
 
-Busan was so fun during the summer vacation!
-
+그냥 날 죽여!! 🤮🤮🤮🤮🤮
 
