@@ -1,21 +1,21 @@
 ---
 title: "Zwagger"
 layout: "custom_layout"
-summary: "힙합의 열정을 공유하는 동아리"
+summary: "A club sharing passion for hip-hop"
 date: 2024-03-01
-tags: ["힙합", "음악"]
+tags: ["Hip-hop", "Music"]
 image:
   filename: "featured.jpg"
-  alt: "Zwagger 동아리 로고"
-icon: "🎤"  # 동아리를 대표하는 이모지 또는 아이콘
-weight: 1  # 표시 순서 (낮은 숫자가 먼저 표시됨)
+  alt: "Zwagger club logo"
+icon: "🎤"  # Emoji or icon representing the club
+weight: 1  # Display order (lower numbers appear first)
 ---
 
-Zwagger는 힙합 문화와 음악을 사랑하는 학생들의 모임입니다. 우리는 래핑, 비트메이킹, 브레이크댄싱 등 힙합의 다양한 요소를 탐구하고 발전시키는 활동을 합니다.
+Zwagger is a group of students who love hip-hop culture and music. We explore and develop various elements of hip-hop, including rapping, beat-making, and breakdancing.
 
-## 주요 활동
-- 주간 힙합 세션
-- 연례 힙합 페스티벌 개최
-- 지역 힙합 아티스트와의 콜라보레이션
+## Main Activities
+- Weekly hip-hop sessions
+- Hosting an annual hip-hop festival
+- Collaborations with local hip-hop artists
 
-힙합에 관심 있는 모든 학생들을 환영합니다. 경험이 없어도 괜찮습니다. 함께 배우고 성장하는 것이 우리의 목표입니다!
+We welcome all students interested in hip-hop. No experience is necessary. Our goal is to learn and grow together!
