@@ -141,7 +141,7 @@ sections:
         url: projects/  # 프로젝트 목록 페이지로 링크
     design:
       card:
-        css_class: "bg-success-700"
-        css_style: "color: white; text-align: center;"  # 카드 배경 및 텍스트 스타일 설정
+        css_class: ""
+        css_style: ""  # 카드 배경 및 텍스트 스타일 설정
 
 ---

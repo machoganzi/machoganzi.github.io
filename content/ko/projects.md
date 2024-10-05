@@ -5,8 +5,10 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
-
+  background:
+    image:
+      filename: projectbackground.svg
+  spacing: '5rem'   
 # Page sections
 sections:
   - block: collection
@@ -18,6 +20,6 @@ sections:
           - project
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
 ---

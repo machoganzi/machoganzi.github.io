@@ -1,0 +1,1 @@
+:root{--light-bg-primary:#20B2AA;--dark-bg-primary:#006666}body{background-color:var(--light-bg-primary)}@media(prefers-color-scheme:dark){body{background-color:var(--dark-bg-primary)}}
