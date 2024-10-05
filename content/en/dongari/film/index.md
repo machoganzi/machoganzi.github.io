@@ -1,6 +1,6 @@
 ---
 title: "Film"
-summary: "영화에 열정을 가진 학생들을 위한 영화 동아리"
+summary: "A film club for students passionate about cinema"
 date: 2024-03-01
 
 image:
@@ -8,16 +8,16 @@ image:
   focal_point: "Center"
 
 tags:
-  - 영화
-  - 영상제작
-  - 영화감상
+  - Film
+  - Video Production
+  - Movie Watching
 ---
 
-Film은 영화를 사랑하는 학생들이 모여 함께 영화 감상, 토론, 제작 등을 즐기는 동아리입니다. 영화에 대한 깊은 관심과 열정을 가진 누구나 참여할 수 있으며, 다양한 영화 관련 활동을 통해 영화에 대한 이해와 실무 경험을 쌓을 수 있습니다.
+Film is a club where students who love movies gather to enjoy watching, discussing, and creating films together. Anyone with a deep interest and passion for cinema is welcome to join, and through various film-related activities, members can gain both understanding and hands-on experience in the world of film.
 
-## 주요 활동
-- 월간 영화 상영 및 토론 모임
-- 단편 영화 제작 프로젝트
-- 영화제 및 영상 제작 워크샵
+## Main Activities
+- Monthly movie screenings and discussion sessions
+- Short film production projects
+- Film festivals and video production workshops
 
-영화를 감상하고 분석하는 것에서 나아가 직접 제작에도 도전해 보고 싶다면 Film 동아리와 함께하세요! 영화에 관심 있는 모든 학생들을 환영합니다.
+If you want to go beyond watching and analyzing movies and challenge yourself to produce your own films, join the Film club! We
