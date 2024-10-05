@@ -6,6 +6,8 @@
 en:
   languageCode: en-us
   contentDir: content/en
+  title: JBNU | KimSunGang
+  weight: 2
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -13,6 +15,8 @@ en:
 ko:
   languageCode: ko-kr
   contentDir: content/ko
+  title: 전북대 | 김선강
+  weight: 1
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...

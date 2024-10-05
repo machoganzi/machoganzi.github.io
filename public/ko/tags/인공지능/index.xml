@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>인공지능 | 전북대 김선강</title>
+    <title>인공지능 | 전북대 | 김선강</title>
     <link>http://localhost:1313/ko/tags/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/</link>
       <atom:link href="http://localhost:1313/ko/tags/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/index.xml" rel="self" type="application/rss+xml" />
     <description>인공지능</description>
