@@ -1,5 +1,5 @@
 ---
-title: 냠쩝냠쩝 - 맛집 서비스 제공 웹 페이지 
+title: Nyamjjupnyamjjub - Restaurant Service Web Page
 date: 2024-09-26
 external_link: https://github.com/machoganzi/-Project-nyamjjupnyamjjub
 tags:
@@ -8,6 +8,6 @@ tags:
   - SQL
 ---
 
-맛집 서비스 제공을 위한 웹 페이지 만들기
+Creating a web page for providing restaurant services.
 
 <!--more-->
