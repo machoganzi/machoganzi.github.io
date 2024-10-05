@@ -2,7 +2,7 @@
 appearance:
   mode: system
   color: emerald
-  favicon: logo.png  # static 폴더 내의 파비콘 파일 경로
+  favicon: icon.png  # static 폴더 내의 파비콘 파일 경로
 # SEO
 marketing:
   seo:
@@ -27,6 +27,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "😎김선강😎"
+      images: icon.png
 
 # Site footer
 footer:
