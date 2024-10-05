@@ -29,5 +29,3 @@ sections:
           position: center
           parallax: false
 ---
-
-{{< backgroundgif "/images/wallpaper.gif" >}}
