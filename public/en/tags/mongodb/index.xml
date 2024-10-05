@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MongoDB | JBNU | KimSunGang</title>
+    <link>http://localhost:1313/en/tags/mongodb/</link>
+      <atom:link href="http://localhost:1313/en/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <description>MongoDB</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>MongoDB</title>
+      <link>http://localhost:1313/en/tags/mongodb/</link>
+    </image>
+    
+    <item>
+      <title>Database Administrator</title>
+      <link>http://localhost:1313/en/planned/databasework/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/planned/databasework/</guid>
+      <description>&lt;h2 id=&#34;database-administrator-study-plan&#34;&gt;Database Administrator Study Plan&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Learn Basic Concepts (6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I plan to take online courses on platforms like Coursera or Udemy to learn about database management systems (DBMS) and database concepts.&lt;/li&gt;
+&lt;li&gt;I will also read books like &lt;em&gt;&amp;ldquo;Database System Concepts&amp;rdquo;&lt;/em&gt; or &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; to solidify the foundational theory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Improve Programming Skills (Ongoing Study)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will practice programming languages such as SQL, Python, and JavaScript regularly.&lt;/li&gt;
+&lt;li&gt;Solving coding challenges on platforms like LeetCode or Codewars will help improve my problem-solving abilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Execute Projects (1 year)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I plan to start building simple database-driven applications, such as a personal shopping mall or blog platform.&lt;/li&gt;
+&lt;li&gt;I will also contribute to open-source projects on GitHub to gain practical experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Community Engagement &amp;amp; Networking (Ongoing Activity)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will actively participate in online communities related to databases (e.g., Reddit, Stack Overflow), expanding my knowledge through questions and discussions.&lt;/li&gt;
+&lt;li&gt;Additionally, I plan to attend database conferences or webinars to learn about the latest technology trends.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Research &amp;amp; Writing (Last 6 Months)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will choose an interesting topic related to database management for in-depth research. For example, a topic like scalable database architecture would be ideal.&lt;/li&gt;
+&lt;li&gt;I plan to summarize my findings in a blog post or write a small report to share and organize my knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Through this plan, I aim to build the skills and experience needed to become a database administrator! I’m committed to achieving my goal through consistent effort.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

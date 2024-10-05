@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bartending | JBNU | KimSunGang</title>
+    <link>http://localhost:1313/en/tags/bartending/</link>
+      <atom:link href="http://localhost:1313/en/tags/bartending/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bartending</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>Bartending</title>
+      <link>http://localhost:1313/en/tags/bartending/</link>
+    </image>
+    
+    <item>
+      <title>General Meeting of Shareholders</title>
+      <link>http://localhost:1313/en/dongari/zoozoochong/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/dongari/zoozoochong/</guid>
+      <description>&lt;p&gt;The General Meeting of Shareholders is a group for students interested in cocktail making and beverage culture. We explore various cocktail recipes, create new flavors, and promote responsible drinking habits.&lt;/p&gt;
+&lt;h2 id=&#34;main-activities&#34;&gt;Main Activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monthly cocktail workshops&lt;/li&gt;
+&lt;li&gt;Seasonal signature cocktail development&lt;/li&gt;
+&lt;li&gt;Non-alcoholic cocktail challenge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s perfectly fine if you don’t drink alcohol! Our focus is on creating and enjoying delicious beverages. Join us as we explore the creative world of drinks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

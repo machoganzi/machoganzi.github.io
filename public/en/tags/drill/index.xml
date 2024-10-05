@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DRILL | JBNU | KimSunGang</title>
+    <link>http://localhost:1313/en/tags/drill/</link>
+      <atom:link href="http://localhost:1313/en/tags/drill/index.xml" rel="self" type="application/rss+xml" />
+    <description>DRILL</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>DRILL</title>
+      <link>http://localhost:1313/en/tags/drill/</link>
+    </image>
+    
+    <item>
+      <title>Zwagger Show - CAME FROM HOOD</title>
+      <link>http://localhost:1313/en/project/hiphop/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/hiphop/</guid>
+      <description>&lt;p&gt;A live performance with lyrics, composition, and production all done by myself!!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

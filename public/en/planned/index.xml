@@ -1,92 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>planned | JBNU | KimSunGang</title>
+    <title>plan | JBNU | KimSunGang</title>
     <link>http://localhost:1313/en/planned/</link>
       <atom:link href="http://localhost:1313/en/planned/index.xml" rel="self" type="application/rss+xml" />
-    <description>planned</description>
+    <description>plan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
-      <title>planned</title>
+      <title>plan</title>
       <link>http://localhost:1313/en/planned/</link>
     </image>
     
     <item>
-      <title>Web Service Design: Personal Learning</title>
-      <link>http://localhost:1313/en/planned/preprint/</link>
+      <title>Database Administrator</title>
+      <link>http://localhost:1313/en/planned/databasework/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/planned/preprint/</guid>
-      <description>&lt;h2 id=&#34;major-study-plan&#34;&gt;Major study plan&lt;/h2&gt;
+      <guid>http://localhost:1313/en/planned/databasework/</guid>
+      <description>&lt;h2 id=&#34;database-administrator-study-plan&#34;&gt;Database Administrator Study Plan&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. Learn Basic Concepts (6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I plan to take online courses on platforms like Coursera or Udemy to learn about database management systems (DBMS) and database concepts.&lt;/li&gt;
+&lt;li&gt;I will also read books like &lt;em&gt;&amp;ldquo;Database System Concepts&amp;rdquo;&lt;/em&gt; or &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; to solidify the foundational theory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Improve Programming Skills (Ongoing Study)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will practice programming languages such as SQL, Python, and JavaScript regularly.&lt;/li&gt;
+&lt;li&gt;Solving coding challenges on platforms like LeetCode or Codewars will help improve my problem-solving abilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Execute Projects (1 year)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I plan to start building simple database-driven applications, such as a personal shopping mall or blog platform.&lt;/li&gt;
+&lt;li&gt;I will also contribute to open-source projects on GitHub to gain practical experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Community Engagement &amp;amp; Networking (Ongoing Activity)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will actively participate in online communities related to databases (e.g., Reddit, Stack Overflow), expanding my knowledge through questions and discussions.&lt;/li&gt;
+&lt;li&gt;Additionally, I plan to attend database conferences or webinars to learn about the latest technology trends.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Research &amp;amp; Writing (Last 6 Months)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I will choose an interesting topic related to database management for in-depth research. For example, a topic like scalable database architecture would be ideal.&lt;/li&gt;
+&lt;li&gt;I plan to summarize my findings in a blog post or write a small report to share and organize my knowledge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Through this plan, I aim to build the skills and experience needed to become a database administrator! I’m committed to achieving my goal through consistent effort.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Own Cooking Journey! 🍕</title>
+      <link>http://localhost:1313/en/planned/cook/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/planned/cook/</guid>
+      <description>&lt;h2 id=&#34;-cooking-journey-plan-&#34;&gt;🍳 Cooking Journey Plan 🧑‍🍳&lt;/h2&gt;
+&lt;h3 id=&#34;1-learning-the-basics-6-months&#34;&gt;1. Learning the Basics (6 months)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Start with the &lt;strong&gt;basics&lt;/strong&gt;! I’ll practice simple dishes like fried eggs 🍳🥬 and learn how to chop and prepare ingredients properly.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll watch &lt;strong&gt;YouTube&lt;/strong&gt; or take &lt;strong&gt;cooking classes&lt;/strong&gt; to start developing my own cooking style! 😊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-exploring-world-cuisine-1-year&#34;&gt;2. Exploring World Cuisine (1 year)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I want to learn signature dishes from different countries! 🌍&lt;/li&gt;
+&lt;li&gt;From &lt;strong&gt;Italian pasta&lt;/strong&gt; to &lt;strong&gt;Japanese sushi&lt;/strong&gt;, and &lt;strong&gt;French desserts&lt;/strong&gt;, I’ll try various recipes and build up my cooking skills. 🍝🍣🍰&lt;/li&gt;
+&lt;li&gt;Whenever I create a new dish, I&amp;rsquo;ll invite friends over for a &lt;strong&gt;tasting party&lt;/strong&gt;! 🎉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-creating-my-own-dishes-ongoing-activity&#34;&gt;3. Creating My Own Dishes (Ongoing Activity)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Once I’ve mastered the basics, I’ll start creating &lt;strong&gt;my own recipes&lt;/strong&gt;. 🍲&lt;/li&gt;
+&lt;li&gt;I’ll mix ingredients freely, make dishes that I want to eat, experiment, and figure out ways to improve.&lt;/li&gt;
+&lt;li&gt;I’ll keep a cooking journal to track which ingredients go well together and how to balance flavors. ✍️📖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-cooking-time-with-friends-ongoing-activity&#34;&gt;4. Cooking Time with Friends (Ongoing Activity)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cooking alone can be fun, but it’s even better with &lt;strong&gt;friends&lt;/strong&gt;!&lt;/li&gt;
+&lt;li&gt;I plan to host a &lt;strong&gt;Cooking Day&lt;/strong&gt; every week, inviting friends to cook together and taste each other&amp;rsquo;s dishes. 🍕👯‍♂️&lt;/li&gt;
+&lt;li&gt;Sometimes we’ll have cooking competitions to crown a winner and enjoy some friendly competition! 🏆🎊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-starting-a-cooking-blog-or-social-media-last-6-months&#34;&gt;5. Starting a Cooking Blog or Social Media (Last 6 Months)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I want to &lt;strong&gt;document&lt;/strong&gt; my creations, so I’ll start a cooking blog or share my recipes and photos on &lt;strong&gt;Instagram&lt;/strong&gt;! 📸🍴&lt;/li&gt;
+&lt;li&gt;I’ll connect with others, receive feedback, and gain even more cooking ideas. 💬💡&lt;/li&gt;
+&lt;li&gt;My dream is to become a chef who shares my unique recipes with the world! ✨👩‍🍳&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Cooking is joy! 🍽️ As I follow this plan, I’ll deepen my love for cooking, and one day, I’ll be a &lt;strong&gt;great chef&lt;/strong&gt; known for my amazing flavors. 😎🔥&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Service Design: Personal Learning</title>
+      <link>http://localhost:1313/en/planned/webservice/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/planned/webservice/</guid>
+      <description>&lt;h2 id=&#34;key-learning-plan&#34;&gt;Key Learning Plan&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;1. Learning the Basics (6 months)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Take online courses on web service design and development (e.g., Coursera, Udemy)&lt;/li&gt;
-&lt;li&gt;Read books like &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;I plan to take online courses on platforms like Coursera or Udemy on web service design and development.&lt;/li&gt;
+&lt;li&gt;I will read books like &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Improving Programming Skills (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Improving Programming Skills (Ongoing Learning)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Practice coding regularly using languages like JavaScript, Python, and SQL&lt;/li&gt;
-&lt;li&gt;Work on weekly coding challenges (e.g., LeetCode, Codewars) to sharpen problem-solving skills&lt;/li&gt;
+&lt;li&gt;I will regularly practice coding with languages like JavaScript, Python, and SQL.&lt;/li&gt;
+&lt;li&gt;I will work on weekly coding challenges through sites like LeetCode and Codewars to enhance my problem-solving skills.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Working on Projects (1 year)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Project Work (1 year)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Start a personal project, like building a simple e-commerce site or a blog platform&lt;/li&gt;
-&lt;li&gt;Contribute to open-source projects related to web development&lt;/li&gt;
+&lt;li&gt;I plan to start personal projects, such as building a simple e-commerce site or a blog platform.&lt;/li&gt;
+&lt;li&gt;I will also contribute to open-source projects related to web development.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;4. Networking and Joining Communities (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Networking and Community Involvement (Ongoing Activity)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Attend web development meetups or join online communities (e.g., Reddit, Stack Overflow)&lt;/li&gt;
-&lt;li&gt;Participate in web development conferences or webinars to stay updated on trends&lt;/li&gt;
+&lt;li&gt;I will attend web development meetups and participate in online communities like Reddit and Stack Overflow.&lt;/li&gt;
+&lt;li&gt;I also plan to attend web development conferences or webinars to stay updated on the latest trends.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;5. Research and Writing (Final 6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Research and Writing (Last 6 months)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Pick a topic that interests you, like scalable web service architecture&lt;/li&gt;
-&lt;li&gt;Conduct research and document your findings in a blog or small report&lt;/li&gt;
+&lt;li&gt;I will choose an interesting topic, such as scalable web service architecture, for in-depth research.&lt;/li&gt;
+&lt;li&gt;I will document my findings in a blog post or a small report.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/en/planned/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/planned/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>http://localhost:1313/en/planned/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/planned/conference-paper/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
 </description>
     </item>
     

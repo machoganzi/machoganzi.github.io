@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music | JBNU | KimSunGang</title>
+    <link>http://localhost:1313/en/tags/music/</link>
+      <atom:link href="http://localhost:1313/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>Music</title>
+      <link>http://localhost:1313/en/tags/music/</link>
+    </image>
+    
+    <item>
+      <title>Zwagger</title>
+      <link>http://localhost:1313/en/dongari/zwagger/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/dongari/zwagger/</guid>
+      <description>&lt;p&gt;Zwagger is a group of students who love hip-hop culture and music. We explore and develop various elements of hip-hop, including rapping, beat-making, and breakdancing.&lt;/p&gt;
+&lt;h2 id=&#34;main-activities&#34;&gt;Main Activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Weekly hip-hop sessions&lt;/li&gt;
+&lt;li&gt;Hosting an annual hip-hop festival&lt;/li&gt;
+&lt;li&gt;Collaborations with local hip-hop artists&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We welcome all students interested in hip-hop. No experience is necessary. Our goal is to learn and grow together!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

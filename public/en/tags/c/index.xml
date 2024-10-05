@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Linux-Locker server</title>
+      <title>Linux Locker Server</title>
       <link>http://localhost:1313/en/project/locker_server/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/project/locker_server/</guid>
-      <description>&lt;p&gt;Linux implements a packet-based locker server system&lt;/p&gt;</description>
+      <description>&lt;p&gt;Implementation of a packet-based locker server system using Linux.&lt;/p&gt;</description>
     </item>
     
   </channel>

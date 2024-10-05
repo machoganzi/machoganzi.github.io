@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Production | JBNU | KimSunGang</title>
+    <link>http://localhost:1313/en/tags/video-production/</link>
+      <atom:link href="http://localhost:1313/en/tags/video-production/index.xml" rel="self" type="application/rss+xml" />
+    <description>Video Production</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>Video Production</title>
+      <link>http://localhost:1313/en/tags/video-production/</link>
+    </image>
+    
+    <item>
+      <title>Film</title>
+      <link>http://localhost:1313/en/dongari/film/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/dongari/film/</guid>
+      <description>&lt;p&gt;Film is a club where students who love movies gather to enjoy watching, discussing, and creating films together. Anyone with a deep interest and passion for cinema is welcome to join, and through various film-related activities, members can gain both understanding and hands-on experience in the world of film.&lt;/p&gt;
+&lt;h2 id=&#34;main-activities&#34;&gt;Main Activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monthly movie screenings and discussion sessions&lt;/li&gt;
+&lt;li&gt;Short film production projects&lt;/li&gt;
+&lt;li&gt;Film festivals and video production workshops&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to go beyond watching and analyzing movies and challenge yourself to produce your own films, join the Film club! We&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

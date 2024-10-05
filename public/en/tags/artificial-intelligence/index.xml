@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | JBNU | KimSunGang</title>
+    <link>http://localhost:1313/en/tags/artificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/en/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu18234906907175934031.png</url>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/en/tags/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>WHO</title>
+      <link>http://localhost:1313/en/dongari/who/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/dongari/who/</guid>
+      <description>&lt;p&gt;WHO is an academic club where students interested in computer AI gather to research and discuss together. Anyone with a deep interest in AI technology is welcome to join, and through various research and project activities, members can achieve academic results and gain practical experience.&lt;/p&gt;
+&lt;h2 id=&#34;main-activities&#34;&gt;Main Activities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Weekly study sessions and seminars&lt;/li&gt;
+&lt;li&gt;AI project development&lt;/li&gt;
+&lt;li&gt;Participation in related conferences and competitions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to delve deeper into AI technology and gain hands-on experience through projects, join the WHO club! We welcome all students interested in AI and computer science.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

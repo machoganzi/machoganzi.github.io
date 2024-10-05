@@ -14,44 +14,44 @@
     
     <item>
       <title>Web Service Design: Personal Learning</title>
-      <link>http://localhost:1313/en/planned/preprint/</link>
+      <link>http://localhost:1313/en/planned/webservice/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/planned/preprint/</guid>
-      <description>&lt;h2 id=&#34;major-study-plan&#34;&gt;Major study plan&lt;/h2&gt;
+      <guid>http://localhost:1313/en/planned/webservice/</guid>
+      <description>&lt;h2 id=&#34;key-learning-plan&#34;&gt;Key Learning Plan&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;1. Learning the Basics (6 months)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Take online courses on web service design and development (e.g., Coursera, Udemy)&lt;/li&gt;
-&lt;li&gt;Read books like &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;I plan to take online courses on platforms like Coursera or Udemy on web service design and development.&lt;/li&gt;
+&lt;li&gt;I will read books like &lt;em&gt;&amp;ldquo;Designing Data-Intensive Applications&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;Web Design with HTML, CSS, and JavaScript&amp;rdquo;&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Improving Programming Skills (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Improving Programming Skills (Ongoing Learning)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Practice coding regularly using languages like JavaScript, Python, and SQL&lt;/li&gt;
-&lt;li&gt;Work on weekly coding challenges (e.g., LeetCode, Codewars) to sharpen problem-solving skills&lt;/li&gt;
+&lt;li&gt;I will regularly practice coding with languages like JavaScript, Python, and SQL.&lt;/li&gt;
+&lt;li&gt;I will work on weekly coding challenges through sites like LeetCode and Codewars to enhance my problem-solving skills.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Working on Projects (1 year)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Project Work (1 year)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Start a personal project, like building a simple e-commerce site or a blog platform&lt;/li&gt;
-&lt;li&gt;Contribute to open-source projects related to web development&lt;/li&gt;
+&lt;li&gt;I plan to start personal projects, such as building a simple e-commerce site or a blog platform.&lt;/li&gt;
+&lt;li&gt;I will also contribute to open-source projects related to web development.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;4. Networking and Joining Communities (Ongoing)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Networking and Community Involvement (Ongoing Activity)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Attend web development meetups or join online communities (e.g., Reddit, Stack Overflow)&lt;/li&gt;
-&lt;li&gt;Participate in web development conferences or webinars to stay updated on trends&lt;/li&gt;
+&lt;li&gt;I will attend web development meetups and participate in online communities like Reddit and Stack Overflow.&lt;/li&gt;
+&lt;li&gt;I also plan to attend web development conferences or webinars to stay updated on the latest trends.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;5. Research and Writing (Final 6 months)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Research and Writing (Last 6 months)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Pick a topic that interests you, like scalable web service architecture&lt;/li&gt;
-&lt;li&gt;Conduct research and document your findings in a blog or small report&lt;/li&gt;
+&lt;li&gt;I will choose an interesting topic, such as scalable web service architecture, for in-depth research.&lt;/li&gt;
+&lt;li&gt;I will document my findings in a blog post or a small report.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Nyamjjupnyamjjup-Restaurant service web page</title>
+      <title>Nyamjjupnyamjjub - Restaurant Service Web Page</title>
       <link>http://localhost:1313/en/project/restaurant_service/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/project/restaurant_service/</guid>
-      <description>&lt;p&gt;Creating web pages for providing restaurant services&lt;/p&gt;</description>
+      <description>&lt;p&gt;Creating a web page for providing restaurant services.&lt;/p&gt;</description>
     </item>
     
   </channel>

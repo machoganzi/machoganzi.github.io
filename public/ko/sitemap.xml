@@ -5,6 +5,16 @@
     <loc>http://localhost:1313/ko/dongari/zwagger/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/dongari/zwagger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/dongari/zwagger/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/post/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
@@ -111,16 +121,6 @@
     <loc>http://localhost:1313/ko/planned/journal-article/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/planned/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/planned/journal-article/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/%EB%8B%AC%EA%B1%80/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
@@ -129,16 +129,6 @@
     <loc>http://localhost:1313/ko/planned/conference-paper/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/planned/conference-paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/planned/conference-paper/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/%EC%89%90%ED%94%84/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
@@ -165,16 +155,6 @@
     <loc>http://localhost:1313/ko/planned/preprint/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/planned/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko-kr"
-                href="http://localhost:1313/ko/planned/preprint/"
-                />
   </url><url>
     <loc>http://localhost:1313/ko/post/blog-3/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
@@ -221,6 +201,16 @@
     <loc>http://localhost:1313/ko/post/blog-4/</loc>
     <lastmod>2024-09-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/blog-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/post/blog-4/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
@@ -335,14 +325,44 @@
     <loc>http://localhost:1313/ko/dongari/film/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/dongari/film/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/dongari/film/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/dongari/who/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/dongari/who/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/dongari/who/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/dongari/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/dongari/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/dongari/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
@@ -379,6 +399,16 @@
     <loc>http://localhost:1313/ko/dongari/zoozoochong/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/dongari/zoozoochong/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/dongari/zoozoochong/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/%EC%B9%B5%ED%85%8C%EC%9D%BC/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
@@ -451,18 +481,58 @@
     <loc>http://localhost:1313/ko/tags/boombap/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/boombap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/tags/boombap/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/drill/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/drill/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/tags/drill/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/hiphop/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/hiphop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/tags/hiphop/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/project/hiphop/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/project/hiphop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko-kr"
+                href="http://localhost:1313/ko/project/hiphop/"
+                />
   </url><url>
     <loc>http://localhost:1313/ko/tags/c/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>

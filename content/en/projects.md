@@ -9,7 +9,7 @@ design:
 sections:
   - block: collection
     content:
-      title: 저의 프로젝트를 구경하세요! 
+      title: Check Out My Projects! 
       text: 
       filters:
         folders:
@@ -30,4 +30,3 @@ sections:
           parallax: false
 ---
 
-{{< backgroundgif "/images/wallpaper.gif" >}}
